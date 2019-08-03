@@ -28,7 +28,7 @@ MS in Shanghai Jiao Tong University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;&nb
 BS in Shanghai University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Sep. 2010 - July. 2014)
 * Major: Communication & Information Engineering
 
-### PHD COURSEWORK
+### SELECTED PHD COURSEWORK
 * Major
   * ECE 6610 Wireless Network
   * ECE 6604 Personal & Mobile Communications
@@ -52,4 +52,15 @@ BS in Shanghai University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 * Research project on next-generation wireless network architecture and protocols, space information network security, in Shanghai Jiao Tong University, China.
 * Teaching Assistant (Sep. 2014 - Mar. 2015)
   * Assisting the courses: Fundamentals of Compiling, Introduction to network security, in Shanghai Jiao Tong University, China.
+  
+### WORK EXPERIENCE
+* Software Developer in Intel R&D Ltd., Shanghai (Mar. 2017 - Sep. 2017)
+  * Video Processing Group (VPG), manager: Chi Ding.
+  * Project on developing Graphic Processing Units driver for video post-processing.
+* Internship in Intel R&D Ltd., Shanghai (Nov. 2015-Oct. 2016)
+  * Client Computing Group (CCG), manager: McFarland Chris.
+  * Project on IoT-based Intelligent Wifi Car (awarded Excellent Intern of 2016).
+
+  
+
 
