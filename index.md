@@ -15,7 +15,7 @@ He is currently a third-year PhD student, and works with [Prof. Douglas M. Bloug
 
 
 ### EDUCATION BACKGROUND
-PhD in Georgia Institute of Technology, Atlanta, GA        Sep. 2017 - present 
+PhD in Georgia Institute of Technology, Atlanta, GA        &nbsp; Sep. 2017 - present 
 * Major: Electrical and Computer Engineering
 * Lab: Advanced Networking and Dependable Systems Laboratory  
 * Advisor: Dr. Douglas M. Blough 
