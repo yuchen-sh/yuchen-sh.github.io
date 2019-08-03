@@ -4,6 +4,10 @@ Yuchen Liu is an ECE PhD student at Georgia Institute of Technology. His researc
 He is currently a third-year PhD student, and works with [Prof. Douglas M. Blough](http://blough.ece.gatech.edu/) on projects of maximizing performance for mmWave wireless networks, and developing network simulators. In addition, he is an instructor of an ECE undergraduate course, and responsible for lectures and supervising labs.
 
 ### WHAT'S NEWS
-* Two of our research papers have been accepted by the 22nd ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems
+* Two of our research papers have been accepted by the 22nd ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM), which is ranked as *A* in [Core Conference Portal](http://portal.core.edu.au/conf-ranks/).
+
+* We submitted one recent paper about robust mmWave backhaul networks to IEEE Transactions on Wireless Communications.
+
+
 
 ### EDUCATION BACKGROUND
