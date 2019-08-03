@@ -63,6 +63,7 @@ He is currently a third-year PhD student, and works with [Prof. Douglas M. Bloug
   
 ### SELECTED PUBLICATIONS
 * Y. Liu and D. Blough, “Joint Path-Network Level Reconfiguration for mmWave Backhaul Survivability in Urban Environments”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
+<br/>
 * Y. Liu and D. Blough, “Optimal Access Point Placement in Multi-AP mmWave WLANs”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
 * Y. Jian, M. Agarwal, Y. Liu, D. Blough and R. Sivakumar, "Poster: Hawkeye - Predictive Positioning of a Ceiling-Mounted Mobile APin mmWave WLANs for Maximizing Line-of-sight", ACM International Conference on Mobile Computing and Networking (MobiCom), 2019.
 * Y. Liu and D. Blough, “Analysis of Blockage Effects on Roadside Relay-assisted mmWave Backhaul Networks”, Proc. of IEEE International Conference on Communications (ICC), 2019.
