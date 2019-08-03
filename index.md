@@ -89,7 +89,9 @@ You can contact him at yuchen.liu.sn@gmail.com.
 
 * "Selection Method of P2P Sensor Network Security Service in the Social Networks", (Appication Patent No.: 201610080457.7)
 
-* "A Lightweight Security Synchronization Method in Smart Sensor Network", (Application Patent No.: 201510703427.2). 
+* "A Lightweight Security Synchronization Method in Smart Sensor Networks", (Application Patent No.: 201510703427.2). 
+
+### SOCIAL SERVICES
 
 
 
