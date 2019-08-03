@@ -1,9 +1,18 @@
-### ABOUT ME
-Yuchen Liu is an ECE PhD student at Georgia Institute of Technology. His research interest mainly focuses on next-generation wireless networks, mmWave communication, 5G backhaul, WiFi-based WLAN, network robustness, and network security. Besides his research areas, he is also interested in developing network simulators such as ns-3 software, and automatic test tools.
+<table border="0">
+     <tr>
+          <td width="75">
+            <p><b>### ABOUT ME</b></p>
+            <p><b>Yuchen Liu is an ECE PhD student at Georgia Institute of Technology. His research interest mainly focuses on next-generation wireless networks, mmWave communication, 5G backhaul, WiFi-based WLAN, network robustness, and network security. Besides his research areas, he is also interested in developing network simulators such as ns-3 software, and automatic test tools.</b></p>
+               
+            <p><b>He is currently a third-year PhD student, and works with [Prof. Douglas M. Blough](http://blough.ece.gatech.edu/) on projects of maximizing performance for mmWave wireless networks, and developing network simulators. In addition, he is an instructor of an ECE undergraduate course, and responsible for lectures and supervising labs.</b></p>
 
-He is currently a third-year PhD student, and works with [Prof. Douglas M. Blough](http://blough.ece.gatech.edu/) on projects of maximizing performance for mmWave wireless networks, and developing network simulators. In addition, he is an instructor of an ECE undergraduate course, and responsible for lectures and supervising labs.
-
-You can contact him at yuchen.liu.sn@gmail.com.
+            <p><b>You can contact him at yuchen.liu.sn@gmail.com.</b></p>
+          </td>
+          <td width="25">
+            <img src="/photo_2.jpg">
+          </td>
+     </tr>
+</table>
 
 ### WHAT'S NEWS
 * Two of our research papers have been accepted by the 22nd ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM) in 2019, which is ranked as *A* in [Core Conference Portal](http://portal.core.edu.au/conf-ranks/).
