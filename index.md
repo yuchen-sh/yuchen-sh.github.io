@@ -8,7 +8,7 @@ He is currently a third-year PhD student, and works with [Prof. Douglas M. Bloug
 
 * We submitted one recent paper on robust mmWave backhaul networks to IEEE Transactions on Wireless Communications.
 
-* One of our research paper on mmWave WiFi networks was rejected by the 25th Annual International Conference on Mobile Computing and Networking (MobiCom) in 2019, but another paper on mobile WiFi systems has been accepted as poster in ACM MobiCom.  
+* One of our research papers on mmWave WiFi networks was rejected by the 25th Annual International Conference on Mobile Computing and Networking (MobiCom) in 2019, but another paper on mobile WiFi systems has been accepted as poster in ACM MobiCom.  
 
      (updated July, 2019)
 
