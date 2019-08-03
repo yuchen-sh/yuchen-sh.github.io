@@ -104,13 +104,13 @@ You can contact him at yuchen.liu.sn@gmail.com.
 
 ### PROFESSIONAL SERVICES
 * Reviewer: 
-  ** IEEE Access
-  ** IEEE Transactions on Sustainable Computing
-  ** Journal of Frontiers of Information Technology & Electronic Engineering
-  ** IEEE IET Intelligent Transport Systems
+  * IEEE Access
+  * IEEE Transactions on Sustainable Computing
+  * Journal of Frontiers of Information Technology & Electronic Engineering
+  * IEEE IET Intelligent Transport Systems
 * Technical Program Commitee: 
-  ** IEEE ICC-2019
-  ** IEEE VTC-2019 Spring
+  * IEEE ICC-2019
+  * IEEE VTC-2019 Spring
 
 
 
