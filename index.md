@@ -95,8 +95,9 @@ You can contact him at yuchen.liu.sn@gmail.com.
 ### SELECTED AWARDS
 * Student Travel Grant Award at IEEE Military Communications Conference, 2016.
 * The Excellent Intern in 2016, Intel Asia-Pacific R&D Ltd.
-* National Scholarship for Graduate Students (top 1%) in China.
-* The Second Prize of National Mathematical Contest in Modeling for the Graduates.
+* National Laboratory of Information and Network Scholarship (20 graduates in China). 
+* National Scholarship for Graduate Students (top 1%).
+* The Second Prize of National Mathematical Contest in Modeling for Graduates.
 * The Outstanding Student Prize, and the Special Scholarship for three times.
 * The Outstanding Volunteer of Metro Line 7 in Shanghai.
 
