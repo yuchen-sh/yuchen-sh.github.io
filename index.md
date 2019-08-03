@@ -61,6 +61,14 @@ He is currently a third-year PhD student, and works with [Prof. Douglas M. Bloug
   * Client Computing Group (CCG), manager: McFarland Chris.
   * Project on IoT-based Intelligent Wifi Car (awarded Excellent Intern of 2016).
   
+### SELECTED PUBLICATIONS
+* Y. Liu and D. Blough, “Joint Path-Network Level Reconfiguration for mmWave Backhaul Survivability in Urban Environments”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
+* Y. Liu and D. Blough, “Optimal Access Point Placement in Multi-AP mmWave WLANs”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
+* Y. Jian, M. Agarwal, Y. Liu, D. Blough and R. Sivakumar, "Poster: Hawkeye - Predictive Positioning of a Ceiling-Mounted Mobile APin mmWave WLANs for Maximizing Line-of-sight", ACM International Conference on Mobile Computing and Networking (MobiCom), 2019.
+* Y. Liu and D. Blough, “Analysis of Blockage Effects on Roadside Relay-assisted mmWave Backhaul Networks”, Proc. of IEEE International Conference on Communications (ICC), 2019.
+* Y. Liu, Q. Hu, and D. Blough, “Blockage Avoidance in Relay Paths for Roadside mmWave Backhaul Networks”, Proc. of IEEE Int'l Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC), 2018.
+* Y Liu, A Zhang, S Li, J Tang, and J Li, “A Lightweight Authentication Scheme based on Self-updating Strategy for Space Information Network[J]”, International Journal of Satellite Communications & Networking. 2017, DOI: 10.1002/sat.1179.
+* Y Liu, A Zhang, J Li, and J Wu, “An Anonymous Distributed Key Management System based on CL-PKC for Space Information Network”, Proc. of IEEE International Conference on Communications (ICC), 2016.
 
 
   
