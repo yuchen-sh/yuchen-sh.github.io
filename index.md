@@ -10,23 +10,23 @@ He is currently a third-year PhD student, and works with [Prof. Douglas M. Bloug
 
 * One of our research papers on mmWave WiFi networks was rejected by the 25th Annual International Conference on Mobile Computing and Networking (MobiCom), but another paper on mobile WiFi systems has been accepted as poster in ACM MobiCom 2019.  
 
-     (updated July, 2019)
+     (updated by July, 2019)
 
 
 
 ### EDUCATION BACKGROUND
-PhD in Georgia Institute of Technology, Atlanta, GA, USA &nbsp;&nbsp;&nbsp;&nbsp; (Sep. 2017 - present) 
-* Major: Electrical and Computer Engineering
-* Lab: Advanced Networking and Dependable Systems Laboratory  
-* Advisor: Dr. Douglas M. Blough 
+* PhD in Georgia Institute of Technology, Atlanta, GA, USA &nbsp;&nbsp;&nbsp;&nbsp; (Sep. 2017 - present) 
+  * Major: Electrical and Computer Engineering
+  * Lab: Advanced Networking and Dependable Systems Laboratory  
+  * Advisor: Dr. Douglas M. Blough 
 
-MS in Shanghai Jiao Tong University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Sep. 2014 - Mar. 2017)
-* Major: Electrical and Computer Engineering  
-* Lab: National Laboratory for Information Content Analysis Technology  
-* Advisor: Dr. Jianhua Li
+* MS in Shanghai Jiao Tong University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Sep. 2014 - Mar. 2017)
+  * Major: Electrical and Computer Engineering  
+  * Lab: National Laboratory for Information Content Analysis Technology  
+  * Advisor: Dr. Jianhua Li
 
-BS in Shanghai University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Sep. 2010 - July. 2014)
-* Major: Communication & Information Engineering
+* BS in Shanghai University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Sep. 2010 - July. 2014)
+  * Major: Communication & Information Engineering
 
 ### SELECTED PHD COURSEWORK
 * Major
@@ -60,6 +60,8 @@ BS in Shanghai University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 * Internship in Intel R&D Ltd., Shanghai (Nov. 2015-Oct. 2016)
   * Client Computing Group (CCG), manager: McFarland Chris.
   * Project on IoT-based Intelligent Wifi Car (awarded Excellent Intern of 2016).
+  
+
 
   
 
