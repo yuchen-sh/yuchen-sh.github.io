@@ -117,12 +117,17 @@ You can contact him at yuchen.liu.sn@gmail.com.
   * Computer programming with **C/C++**;
   * Modeling, scripting and data analysis with **MATLAB**, **Shell**;
   * Knowledge and understanding of discrete events simulators with **ns-3**;
-  * Documental skills with **LaTeX** and **MS office suite**.
+  * Documental skills with **LaTeX** and **MS office suite**;
   * Operation system with **Linux**.
 * Immediate
   * data visualization with gnuplot;
   * scripting and data analysis with Python;
-  * Git, SVN versioning systems;
+  * Git, SVN versioning systems.
+  
+## OTHER INTERESTS
+* Swimming, Skating, Badmintton & Ping-pong ball (skillful); 
+* Skiing (beginner);
+* Marathon (completed the half Marathon race and won the metal). 
 
 
 
