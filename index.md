@@ -25,7 +25,7 @@ MS in Shanghai Jiao Tong University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;&nb
 * Lab: National Laboratory for Information Content Analysis Technology  
 * Advisor: Dr. Jianhua Li
 
-BS in Shanghai University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Sep. 2010 - July.2014)
+BS in Shanghai University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Sep. 2010 - July. 2014)
 * Major: Communication & Information Engineering
 
 ### PHD COURSEWORK
@@ -40,3 +40,16 @@ BS in Shanghai University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   * ISYE 6603 Nonlinear Optimization
   * ISYE 7684 Advanced Nonlinear Programming
   (instructed by Prof. [Arkadi Nemirovski](https://www.isye.gatech.edu/users/arkadi-nemirovski))
+  
+### ACADEMIC EXPERIENCE
+* Research Assistant (Spring 2017 - present)
+  ** Research project on maximizing throughput performance in mmWave wireless networks, in Georgia Tech, USA.
+* Instructor (Fall 2018 - present)
+** Teaching the undergraduate course: ECE-3710 Circuit & Electronics, in Georgia Tech, USA.
+* Teaching Assistant (Summer 2019)
+  ** ECE-3020 Math Foundations of Computer Engineering, in Georgia Tech, USA.
+* Research Assistant (Sep. 2014 - Mar.2017)
+** Research project on next-generation wireless network architecture and protocols, space information network security, in Shanghai Jiao Tong University, China.
+* Teaching Assistant (Sep. 2014 - Mar. 2015)
+  ** Assisting the courses: Fundamentals of Compiling, Introduction to network security, in Shanghai Jiao Tong University, China.
+
