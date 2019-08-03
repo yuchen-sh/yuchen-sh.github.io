@@ -15,15 +15,15 @@ He is currently a third-year PhD student, and works with [Prof. Douglas M. Bloug
 
 
 ### EDUCATION BACKGROUND
-PhD in Georgia Institute of Technology, Atlanta, GA, US &nbsp;&nbsp;&nbsp; Sep. 2017 - present 
+PhD in Georgia Institute of Technology, Atlanta, GA, US &nbsp;&nbsp;&nbsp;&nbsp; Sep. 2017 - present 
 * Major: Electrical and Computer Engineering
 * Lab: Advanced Networking and Dependable Systems Laboratory  
 * Advisor: Dr. Douglas M. Blough 
 
-MS in Shanghai Jiao Tong University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;Sep. 2014-Mar. 2017
+MS in Shanghai Jiao Tong University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep. 2014-Mar. 2017
 * Major: Electrical and Computer Engineering  
 * Lab: National Laboratory for Information Content Analysis Technology  
 * Advisor: Dr. Jianhua Li
 
-BS in Shanghai University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sep. 2010-July.2014
+BS in Shanghai University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep. 2010-July.2014
 * Major: Communication & Information Engineering
