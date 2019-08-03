@@ -124,7 +124,7 @@ You can contact him at yuchen.liu.sn@gmail.com.
   * scripting and data analysis with Python;
   * Git, SVN versioning systems.
   
-## LANGUAGES & INTERESTS
+### LANGUAGES & INTERESTS
 * English (Professional), Chinese (Native);
 * Swimming, Skating, Badmintton & Ping-pong ball (skillful); 
 * Skiing (beginner);
