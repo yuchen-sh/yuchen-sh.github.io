@@ -1,14 +1,14 @@
 <table border="0">
      <tr>
-          <td width="65">
+          <td width="50">
             <h1>YUCHEN LIU</h1>
             <p><b>PhD Student</b></p>
             <p><b>Georgia Institute of Technology</b></p>
             <p><b>School of Electrical and Computer Engineering</b></p>  
             <p><b>Email: yuchen.liu.sn@gmail.com.</b></p>
           </td>
-          <td width="35">
-            <img src="/photo_2.jpg">
+          <td width="50">
+            <img src="/photo_2_small.jpg">
           </td>
      </tr>
 </table>
