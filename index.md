@@ -6,7 +6,7 @@ He is currently a third-year PhD student, and works with [Prof. Douglas M. Bloug
 ### WHAT'S NEWS
 * Two of our research papers have been accepted by the 22nd ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM) in 2019, which is ranked as *A* in [Core Conference Portal](http://portal.core.edu.au/conf-ranks/).
 
-* We submitted one recent paper on robust mmWave backhaul networks to IEEE Transactions on Wireless Communications.
+* We submitted one recent paper on robust mmWave backhaul networks to [IEEE Transactions on Wireless Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693).
 
 * One of our research papers on mmWave WiFi networks was rejected by the 25th Annual International Conference on Mobile Computing and Networking (MobiCom), but another paper on mobile WiFi systems has been accepted as poster in ACM MobiCom 2019.  
 
@@ -30,7 +30,7 @@ BS in Shanghai University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 ### PHD COURSEWORK
 * Major
-** ECE 6610 Wireless Network
-** ECE 6604 Personal & Mobile Communications
-** ECE 6607 Computer Communication Networks 
-** ECE 8823 Convex Programming (special topics)
+  * ECE 6610 Wireless Network
+  * ECE 6604 Personal & Mobile Communications
+  * ECE 6607 Computer Communication Networks 
+  * ECE 8823 Convex Programming (special topics)
