@@ -39,7 +39,7 @@ BS in Shanghai University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   * ISYE 6601 Linear Optimization
   * ISYE 6603 Nonlinear Optimization
   * ISYE 7684 Advanced Nonlinear Programming
-  \br (instructed by Prof. [Arkadi Nemirovski](https://www.isye.gatech.edu/users/arkadi-nemirovski))
+  <br/>(instructed by Prof. [Arkadi Nemirovski](https://www.isye.gatech.edu/users/arkadi-nemirovski))</br>
   
 ### ACADEMIC EXPERIENCE
 * Research Assistant (Spring 2017 - present)
