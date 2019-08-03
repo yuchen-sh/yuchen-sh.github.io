@@ -8,10 +8,22 @@ He is currently a third-year PhD student, and works with [Prof. Douglas M. Bloug
 
 * We submitted one recent paper on robust mmWave backhaul networks to IEEE Transactions on Wireless Communications.
 
-* One of our research papers on mmWave WiFi networks was rejected by the 25th Annual International Conference on Mobile Computing and Networking (MobiCom) in 2019, but another paper on mobile WiFi systems has been accepted as poster in ACM MobiCom.  
+* One of our research papers on mmWave WiFi networks was rejected by the 25th Annual International Conference on Mobile Computing and Networking (MobiCom), but another paper on mobile WiFi systems has been accepted as poster in ACM MobiCom 2019.  
 
      (updated July, 2019)
 
 
 
 ### EDUCATION BACKGROUND
+PhD in Georgia Institute of Technology, Atlanta, GA        Sep. 2017 - present 
+* Major: Electrical and Computer Engineering
+* Lab: Advanced Networking and Dependable Systems Laboratory  
+* Advisor: Dr. Douglas M. Blough 
+
+MS in Shanghai Jiao Tong University, Shanghai, China       Sep. 2014-Mar. 2017
+* Major: Electrical and Computer Engineering  
+* Lab: National Laboratory for Information Content Analysis Technology  
+* Advisor: Dr. Jianhua Li
+
+BS in Shanghai University, Shanghai, China                 Sep. 2010-July.2014
+* Major: Communication & Information Engineering
