@@ -39,13 +39,13 @@ BS in Shanghai University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   * ISYE 6601 Linear Optimization
   * ISYE 6603 Nonlinear Optimization
   * ISYE 7684 Advanced Nonlinear Programming
-  br (instructed by Prof. [Arkadi Nemirovski](https://www.isye.gatech.edu/users/arkadi-nemirovski))
+  \br (instructed by Prof. [Arkadi Nemirovski](https://www.isye.gatech.edu/users/arkadi-nemirovski))
   
 ### ACADEMIC EXPERIENCE
 * Research Assistant (Spring 2017 - present)
   * Research project on maximizing throughput performance in mmWave wireless networks, in Georgia Tech, USA.
 * Instructor (Fall 2018 - present)
-* Teaching the undergraduate course: ECE-3710 Circuit & Electronics, in Georgia Tech, USA.
+  * Teaching the undergraduate course: ECE-3710 Circuit & Electronics, in Georgia Tech, USA.
 * Teaching Assistant (Summer 2019)
   * ECE-3020 Math Foundations of Computer Engineering, in Georgia Tech, USA.
 * Research Assistant (Sep. 2014 - Mar.2017)
