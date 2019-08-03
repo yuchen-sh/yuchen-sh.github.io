@@ -27,3 +27,10 @@ MS in Shanghai Jiao Tong University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;&nb
 
 BS in Shanghai University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep. 2010-July.2014
 * Major: Communication & Information Engineering
+
+### PHD COURSEWORK
+* Major
+** ECE 6610 Wireless Network
+** ECE 6604 Personal & Mobile Communications
+** ECE 6607 Computer Communication Networks 
+** ECE 8823 Convex Programming (special topics)
