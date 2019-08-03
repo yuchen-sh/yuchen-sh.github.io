@@ -1,4 +1,4 @@
-
+<table border="0">
      <tr>
           <td width="75">
             <p><b>###ABOUT ME</b></p>
@@ -12,7 +12,7 @@
             <img src="/photo_2.jpg">
           </td>
      </tr>
-
+</table>
 
 ### WHAT'S NEWS
 * Two of our research papers have been accepted by the 22nd ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM) in 2019, which is ranked as *A* in [Core Conference Portal](http://portal.core.edu.au/conf-ranks/).
