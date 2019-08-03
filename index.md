@@ -39,7 +39,7 @@ BS in Shanghai University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   * ISYE 6601 Linear Optimization
   * ISYE 6603 Nonlinear Optimization
   * ISYE 7684 Advanced Nonlinear Programming
-  <br/>(instructed by Prof. [Arkadi Nemirovski](https://www.isye.gatech.edu/users/arkadi-nemirovski))</br>
+  <br/>(instructed by Prof. [Arkadi Nemirovski](https://www.isye.gatech.edu/users/arkadi-nemirovski))
   
 ### ACADEMIC EXPERIENCE
 * Research Assistant (Spring 2017 - present)
@@ -49,7 +49,7 @@ BS in Shanghai University, Shanghai, China &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 * Teaching Assistant (Summer 2019)
   * ECE-3020 Math Foundations of Computer Engineering, in Georgia Tech, USA.
 * Research Assistant (Sep. 2014 - Mar.2017)
-* Research project on next-generation wireless network architecture and protocols, space information network security, in Shanghai Jiao Tong University, China.
+  * Research project on next-generation wireless network architecture and protocols, space information network security, in Shanghai Jiao Tong University, China.
 * Teaching Assistant (Sep. 2014 - Mar. 2015)
   * Assisting the courses: Fundamentals of Compiling, Introduction to network security, in Shanghai Jiao Tong University, China.
   
