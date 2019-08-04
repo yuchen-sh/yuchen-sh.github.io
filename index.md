@@ -7,13 +7,13 @@
             <p><b>School of Electrical and Computer Engineering</b></p>  
             <p><b>Email: yuchen.liu.sn@gmail.com</b></p>
           </td>
-          <td width="55" valign="middle">
+          <td width="85">
             <head>   
             <style>   
                #img1{transform:rotate(0deg);}
             </style>
             </head>     
-            <img id="img1" src="/photo_2_small.png" height="95%"#pic_center>
+            <img id="img1" src="/photo_2_small.png">
           </td>
      </tr>
 </table>
