@@ -3,7 +3,7 @@
 <table border="0">
      <tr>
           <td width="55">
-            <h1><font face="Times">YUCHEN LIU</font></h1>
+            <h1><font face="Times"; size='5'>YUCHEN LIU</font></h1>
             <p><b>PhD Student</b></p>
             <p><b>Georgia Institute of Technology</b></p>
             <p><b>School of Electrical and Computer Engineering</b></p>  
@@ -31,12 +31,6 @@ You can contact him at yuchen.liu.sn@gmail.com.
 
 
 ## <span id="j2"><font color='darkblue' face="STCAIYUN">WHAT'S NEWS</font></span>
-<div class="panel-body" style="height: 5px; overflow-y:scroll">
-           <pre>
-           ssss,ssssssssssssssssssssss <br/> ssssss <br/> ssssss<br/> ssssss<br/> ssssss<br/> ssssss<br/> ssssss<br/> ssssss
-           </pre>
-</div>
-
 * Two of our research papers have been accepted by the 22nd ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM) in 2019, which is ranked as *A* in [Core Conference Portal](http://portal.core.edu.au/conf-ranks/).
 
 * We submitted one recent paper on robust mmWave backhaul networks to [IEEE Transactions on Wireless Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693).
