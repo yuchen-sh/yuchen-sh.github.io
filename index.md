@@ -8,9 +8,11 @@
             <p><b>Email: yuchen.liu.sn@gmail.com.</b></p>
           </td>
           <td width="45">
+            <head>   
             <style>   
                #img1{transform:rotate(90deg);}
             </style>
+            </head>     
             <img id="img1" src="/photo_2_small.jpg">
           </td>
      </tr>
