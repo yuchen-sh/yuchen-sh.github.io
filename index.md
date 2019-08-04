@@ -71,7 +71,7 @@ You can contact him at yuchen.liu.sn@gmail.com.
   * Teaching the undergraduate course: ECE-3710 Circuit & Electronics, in Georgia Tech, USA.
 * Teaching Assistant (Summer 2019)
   * ECE-3020 Math Foundations of Computer Engineering, in Georgia Tech, USA.
-* Research Assistant (Sep. 2014 - Mar.2017)
+* Research Assistant (Sep. 2014 - Mar. 2017)
   * Research project on next-generation wireless network architecture and protocols, space information network security, in Shanghai Jiao Tong University, China.
 * Teaching Assistant (Sep. 2014 - Mar. 2015)
   * Assisting the courses: Fundamentals of Compiling, Introduction to network security, in Shanghai Jiao Tong University, China.
