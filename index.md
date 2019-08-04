@@ -13,7 +13,7 @@
                #img1{transform:rotate(0deg);}
             </style>
             </head>     
-            <img id="img1" src="/photo_2_small.png" width="90">
+            <div align=center>! <img id="img1" src="/photo_2_small.png" height="80">
           </td>
      </tr>
 </table>
