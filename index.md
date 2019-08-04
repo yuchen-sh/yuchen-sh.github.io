@@ -1,7 +1,7 @@
 <table border="0">
      <tr>
           <td width="55">
-            <h1><font face="STCAIYUN">YUCHEN LIU</font></h1>
+            <h1><font face="Times">YUCHEN LIU</font></h1>
             <p><b>PhD Student</b></p>
             <p><b>Georgia Institute of Technology</b></p>
             <p><b>School of Electrical and Computer Engineering</b></p>  
