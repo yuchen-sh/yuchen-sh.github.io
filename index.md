@@ -19,7 +19,7 @@
 </table>
 
 ## <font color='darkblue' face="STCAIYUN">QUICK SEARCH</font>
-[<u>Underlined ABOUT</u>](#j1)
+[<u>ABOUT</u>](#j1)
 
 
 ## <span id="j1"><font color='darkblue' face="STCAIYUN">ABOUT ME</font></span>
