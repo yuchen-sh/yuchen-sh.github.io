@@ -1,4 +1,4 @@
-<table border="0" rules=rows>
+<table border="0">
      <tr>
           <td width="55">
             <h1>YUCHEN LIU</h1>
