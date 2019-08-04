@@ -1,3 +1,5 @@
+[<u>ABOUT</u>](#j1)
+
 <table border="0">
      <tr>
           <td width="55">
@@ -18,8 +20,6 @@
      </tr>
 </table>
 
-## <font color='darkblue' face="STCAIYUN">QUICK SEARCH</font>
-[<u>ABOUT</u>](#j1)
 
 
 ## <span id="j1"><font color='darkblue' face="STCAIYUN">ABOUT ME</font></span>
