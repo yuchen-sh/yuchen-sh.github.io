@@ -33,7 +33,9 @@ You can contact him at yuchen.liu.sn@gmail.com.
 ## <span id="j2"><font color='darkblue' face="STCAIYUN">WHAT'S NEWS</font></span>
 <div class="panel-body" style="height: 5px; overflow-y:scroll">
       <div style="border: 1px #000000; width: 90%; margin: 0 auto;">
+           <pre>
            ssss,ssssssssssssssssssssss <br/> ssssss <br/> ssssss<br/> ssssss<br/> ssssss<br/> ssssss<br/> ssssss<br/> ssssss
+           </pre>
       </div>
 </div>
 
