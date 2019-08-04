@@ -33,7 +33,6 @@ You can contact him at yuchen.liu.sn@gmail.com.
 ## <span id="j2"><font color='darkblue' face="STCAIYUN">WHAT'S NEWS</font></span>
 <div class="panel-body" style="height: 400px; overflow-y:scroll">
       <div style="border: 1px #000000; width: 90%; margin: 0 auto;">
-         <span>
           * Two of our research papers have been accepted by the 22nd ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM) in 2019, which is ranked as *A* in [Core Conference Portal](http://portal.core.edu.au/conf-ranks/).
 
           * We submitted one recent paper on robust mmWave backhaul networks to [IEEE Transactions on Wireless Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693).
@@ -41,7 +40,6 @@ You can contact him at yuchen.liu.sn@gmail.com.
           * One of our research papers on mmWave WiFi networks was rejected by the 25th Annual International Conference on Mobile Computing and Networking (MobiCom), but another paper on mobile WiFi systems has been accepted as poster in ACM MobiCom 2019.  
 
      (updated by July, 2019)
-         </span>
      </div>
  </div>
 
