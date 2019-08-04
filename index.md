@@ -87,7 +87,7 @@ You can contact him at yuchen.liu.sn@gmail.com.
   * Client Computing Group (CCG), manager: McFarland Chris.
   * Project on IoT-based Intelligent Wifi Car (awarded Excellent Intern of 2016).
   
-## <span id="j7"><font color='darkblue' face="STCAIYUN">RECENT PUBLICATIONS</font></span>
+## <span id="j7"><font color='darkblue' face="Georgia">RECENT PUBLICATIONS</font></span>
 * Y. Liu and D. Blough, “Joint Path-Network Level Reconfiguration for mmWave Backhaul Survivability in Urban Environments”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
 
 * Y. Liu and D. Blough, “Optimal Access Point Placement in Multi-AP mmWave WLANs”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
