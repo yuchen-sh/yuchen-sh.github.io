@@ -10,7 +10,7 @@
           <td width="85">
             <head>   
             <style>   
-               #img1{transform:rotate(90deg);}
+               #img1{-webkit-transform:rotate(90deg);}
             </style>
             </head>     
             <img id="img1" src="/photo_2_small.jpg">
