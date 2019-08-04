@@ -1,13 +1,13 @@
 <table border="0">
      <tr>
-          <td width="70">
+          <td width="90">
             <h1>YUCHEN LIU</h1>
             <p><b>PhD Student</b></p>
             <p><b>Georgia Institute of Technology</b></p>
             <p><b>School of Electrical and Computer Engineering</b></p>  
             <p><b>Email: yuchen.liu.sn@gmail.com</b></p>
           </td>
-          <td width="30">
+          <td width="60">
             <head>   
             <style>   
                #img1{transform:rotate(0deg);}
