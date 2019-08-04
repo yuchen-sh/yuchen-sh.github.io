@@ -1,4 +1,4 @@
-[<u>ABOUT</u>](#j1) &emsp[<u>NEWS</u>](#j2)
+[<u>ABOUT</u>](#j1) &emsp;[<u>NEWS</u>](#j2)
 
 <table border="0">
      <tr>
