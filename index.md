@@ -1,19 +1,19 @@
 <table border="0">
      <tr>
-          <td width="90">
+          <td width="55">
             <h1>YUCHEN LIU</h1>
             <p><b>PhD Student</b></p>
             <p><b>Georgia Institute of Technology</b></p>
             <p><b>School of Electrical and Computer Engineering</b></p>  
             <p><b>Email: yuchen.liu.sn@gmail.com</b></p>
           </td>
-          <td width="5">
+          <td width="55">
             <head>   
             <style>   
                #img1{transform:rotate(0deg);}
             </style>
             </head>     
-            <img id="img1" src="/photo_2_small.png">
+            <img id="img1" src="/photo_2_small.png" width="50">
           </td>
      </tr>
 </table>
