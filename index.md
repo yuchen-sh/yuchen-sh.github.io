@@ -1,4 +1,4 @@
-[<u><font size='5'>ABOUT</font></u>](#j1) &emsp;[<u>NEWS</u>](#j2)
+[<u><font size='4'>ABOUT</font></u>](#j1) &emsp;[<u>NEWS</u>](#j2)
 
 <table border="0">
      <tr>
