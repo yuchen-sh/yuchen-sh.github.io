@@ -10,10 +10,10 @@
           <td width="85">
             <head>   
             <style>   
-               #img1{transform:rotate(270deg);}
+               #img1{transform:rotate(0deg);}
             </style>
             </head>     
-            <img id="img1" src="/photo_2_small.jpg">
+            <img id="img1" src="/photo_2_small.png">
           </td>
      </tr>
 </table>
