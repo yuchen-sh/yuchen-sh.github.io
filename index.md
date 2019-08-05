@@ -20,8 +20,8 @@
      </tr>
 </table>
 
-<div style="border:1px black solid;width:70px;height:20px;text-align:right">
-     <input type="button" value="click me!" />
+<div style="border:1px black solid;width:76px;height:22px;text-align:right">
+     <a href="#top"><input type="button" value="back to top" /></a>
 </div>
 
 ## <span id="j1"><font color='darkblue' face="Georgia">ABOUT ME</font></span>
