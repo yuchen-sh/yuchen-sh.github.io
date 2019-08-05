@@ -20,7 +20,7 @@
      </tr>
 </table>
 
-<div style="border:1px black solid;width:500px;height:500px;">
+<div style="border:1px black solid;width:50px;height:50px;">
      <input style="float:right" type="button" value="click me!" />
 </div>
 
