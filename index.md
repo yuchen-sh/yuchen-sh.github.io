@@ -8,6 +8,7 @@
             <p><b>Georgia Institute of Technology</b></p>
             <p><b>School of Electrical and Computer Engineering</b></p>  
             <p><b>Email: yuchen.liu.sn@gmail.com</b></p>
+            <p><b><i>"Simple but not simpler"</i></b></p>
           </td>
           <td width="85">
             <head>   
