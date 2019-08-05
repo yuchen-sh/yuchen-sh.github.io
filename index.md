@@ -154,7 +154,7 @@ You can contact him at yuchen.liu.sn@gmail.com.
 * Skiing (beginner);
 * Marathon (completed the half Marathon race and won the metal). 
 
-<div style="border:1px black solid;width:93px;height:22px;text-align:left">
+<div style="border:1px black solid;text-align:left">
      <a href="#top"><input type="button" value="back to top" /></a>
 </div>
 
