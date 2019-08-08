@@ -1,4 +1,4 @@
-[<u><font size='4'>ABOUT</font></u>](#j1) &emsp;[<u><font size='4'>NEWS</font></u>](#j2) &emsp;[<u><font size='4'>COURSEWORK</font></u>](#j4) &emsp;[<u><font size='4'>EXPERIENCES</font></u>](#j5) &emsp;[<u><font size='4'>PUBLICATIONS</font></u>](#j7) &emsp;[<u><font size='4'>SERVICES</font></u>](#j10)
+[<u><font size='4'>ABOUT</font></u>](#j1) &emsp;[<u><font size='4'>NEWS</font></u>](#j2) &emsp;[<u><font size='4'>COURSEWORK</font></u>](#j4) &emsp;[<u><font size='4'>EXPERIENCES</font></u>](#j5) &emsp;[[<u><font size='4'>PUBLICATIONS</font></u>]](https://yuchen-sh.github.io/Recent-Publications/) &emsp;[<u><font size='4'>SERVICES</font></u>](#j10)
 
 <table border="0">
      <tr>
