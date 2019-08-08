@@ -10,7 +10,7 @@
             <p><b>Email: yuchen.liu.sn@gmail.com</b></p>
             <p><b><i>"Simple but not simpler"</i></b></p>
           </td>
-          <td width="190">
+          <td width="230">
             <head>   
             <style>   
                #img1{transform:rotate(0deg);}
