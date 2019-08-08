@@ -2,7 +2,7 @@
 
 <table border="0">
      <tr>
-          <td width="85">
+          <td width="130">
             <h1><font face="Times" size='5'>YUCHEN LIU</font></h1>
             <p><b>PhD Student</b></p>
             <p><b>Georgia Institute of Technology</b></p>
