@@ -2,7 +2,7 @@
 
 <table border="0">
      <tr>
-          <td width="65">
+          <td width="85">
             <h1><font face="Times" size='5'>YUCHEN LIU</font></h1>
             <p><b>PhD Student</b></p>
             <p><b>Georgia Institute of Technology</b></p>
@@ -10,7 +10,7 @@
             <p><b>Email: yuchen.liu.sn@gmail.com</b></p>
             <p><b><i>"Simple but not simpler"</i></b></p>
           </td>
-          <td width="150">
+          <td width="190">
             <head>   
             <style>   
                #img1{transform:rotate(0deg);}
