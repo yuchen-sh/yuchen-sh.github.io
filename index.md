@@ -3,7 +3,7 @@
 <table border="0">
      <tr>
           <td width="290">
-            <h1><font face="Times" size='5'>YUCHEN LIU</font></h1>
+            <h1><font face="Times" size='5' color='darkblue'>YUCHEN LIU</font></h1>
             <p><b>PhD, Georgia Tech</b></p>
             <p><b>School of Electrical and Computer Engineering</b></p>  
             <p><b>Email: yuchen.liu.sn@gmail.com</b></p>
