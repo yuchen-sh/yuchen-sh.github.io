@@ -2,7 +2,7 @@
 
 <table border="0">
      <tr>
-          <td width="75%">
+          <td width="60%">
             <h1><font face="Times" size='5' color='darkblue'>YUCHEN LIU</font></h1>
             <p><b>PhD, Georgia Tech</b></p>
             <p><b>School of Electrical and Computer Engineering</b></p>  
