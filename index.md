@@ -7,7 +7,7 @@
             <p><b>PhD, Georgia Tech</b></p>
             <p><b>School of Electrical and Computer Engineering</b></p>  
             <p><b>Email: yuchen.liu.sn@gmail.com</b></p>
-            <p><b><i>"Simple but not simpler"</i></b></p>
+            <p><b><i>"Widely learn and deeply think."</i></b></p>
           </td>
           <td width="25%">
             <head>   
