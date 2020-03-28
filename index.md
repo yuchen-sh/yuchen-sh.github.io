@@ -23,11 +23,11 @@
 
 
 ## <span id="j1"><font color='darkblue' face="Georgia">ABOUT ME</font></span>
-**Yuchen Liu** is an ECE PhD student at [Georgia Institute of Technology](https://www.gatech.edu/). His research interest mainly focuses on next-generation wireless networks, mmWave communication, 5G backhaul, WiFi-based WLAN, network robustness, and network security. Besides his research areas, he is also interested in developing network simulators such as ns-3 software, and automatic test tools.
+I am an ECE PhD student at [Georgia Institute of Technology](https://www.gatech.edu/). My research interest mainly focuses on next-generation wireless networks, mmWave communication, mobile computing, WiFi, network robustness and security. Besides his research areas, he is also interested in developing system-level simulators such as ns-3 software, and automatic test tools.
                
-After getting the master degree from Shanghai Jiao Tong University in China, he is currently a third-year PhD student at Georgia Tech in USA, and works with [Prof. Douglas M. Blough](http://blough.ece.gatech.edu/) on projects of maximizing performance for mmWave wireless networks, and developing network simulators. In addition, he is an instructor of an ECE undergraduate course, and responsible for lectures and supervising labs.
+After getting the master degree from Shanghai Jiao Tong University in China, I am currently a third-year PhD student at Georgia Tech in USA, and works with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) on projects of maximizing performance for mmWave wireless networks, and developing network simulators. In addition, I am an instructor of an ECE undergraduate course, and responsible for lectures and supervising labs.
 
-You can contact him at yuchen.liu.sn@gmail.com.
+You can contact me at yuchen.liu.sn at gmail dot com.
 
 
 
