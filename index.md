@@ -6,7 +6,7 @@
             <h1><font face="Times" size='5' color='darkblue'>YUCHEN LIU</font></h1>
             <p><b>Ph.D, Georgia Tech</b></p>
             <p><b>School of Electrical and Computer Engineering</b></p>  
-            <p><b>Email: yuchen.liu.sn@gmail.com</b></p>
+            <p><b>Email: yuchen.liu.sn at gmail.com</b></p>
             <p><b><i>"Think deeply, think more."</i></b></p>
           </td>
           <td width="25%">
