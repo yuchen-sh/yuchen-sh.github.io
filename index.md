@@ -4,7 +4,7 @@
      <tr>
           <td width="60%">
             <h1><font face="Times" size='5' color='darkblue'>YUCHEN LIU</font></h1>
-            <p><b>Ph.D, Georgia Tech</b></p>
+            <p><b>Ph.D., Georgia Tech</b></p>
             <p><b>School of Electrical and Computer Engineering</b></p>  
             <p><b>Email: yuchen.liu.sn at gmail.com</b></p>
             <p><b><i>"Think deeply, think more."</i></b></p>
@@ -23,9 +23,9 @@
 
 
 ## <span id="j1"><font color='darkblue' face="Georgia">ABOUT ME</font></span>
-I am an ECE Ph.D student at [Georgia Institute of Technology](https://www.gatech.edu/). My research interest mainly focuses on next-generation wireless networks, mmWave communication, mobile computing, WiFi, network robustness and security. Besides my research areas, I am also interested in developing system-level simulators such as ns-3 software, and automatic testing tools.
+I am an ECE Ph.D. student at [Georgia Institute of Technology](https://www.gatech.edu/). My research interest mainly focuses on next-generation wireless networks, mmWave communication, mobile computing, WiFi, network robustness and security. Besides my research areas, I am also interested in developing system-level simulators such as ns-3 software, and automatic testing tools.
                
-After getting the master degree from Shanghai Jiao Tong University in China, I am currently a third-year Ph.D student at Georgia Tech in USA, and works with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) on projects of maximizing performance for mmWave wireless networks, and developing network simulators. In addition, I am an instructor of an ECE undergraduate course, and responsible for lectures and supervising labs.
+After getting the master degree from Shanghai Jiao Tong University in China, I am currently a third-year Ph.D. student at Georgia Tech in USA, and works with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) on projects of maximizing performance for mmWave wireless networks, and developing network simulators. In addition, I am an instructor of an ECE undergraduate course, and responsible for lectures and supervising labs.
 
 You can contact me at yuchen.liu.sn at gmail dot com.
 
