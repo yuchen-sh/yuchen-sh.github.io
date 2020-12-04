@@ -8,7 +8,6 @@
             <p><b>School of Electrical and Computer Engineering</b></p>  
             <p><b>Email: yuchen.liu.sn at gmail.com</b></p>
             <p><b><i>"Think deeply, think more."</i></b></p>
-            <p><b><i>"A *good* plan today is *better* than a *best* plan tomorrow."</i></b></p>
           </td>
           <td width="25%">
             <head>   
@@ -29,6 +28,8 @@ I am an ECE Ph.D. candidate at [Georgia Institute of Technology](https://www.gat
 After getting the master degree from Shanghai Jiao Tong University in China, I am currently a Ph.D. candidate at Georgia Tech in USA, and works with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) on projects of maximizing performance for mmWave wireless networks, and developing network simulators. In addition, I am an instructor of an ECE undergraduate course, and responsible for lectures and supervising labs.
 
 You can contact me at yuchen.liu.sn at gmail dot com.
+
+A *good* plan today is *better* than a *best* plan tomorrow.
 
 
 
