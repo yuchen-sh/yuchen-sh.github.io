@@ -29,7 +29,7 @@ After getting the master degree from Shanghai Jiao Tong University in China, I a
 
 You can contact me at yuchen.liu.sn at gmail dot com.
 
-A *good* plan today is *better* than a *best* plan tomorrow.
+"A *good* plan today is *better* than a *best* plan tomorrow".
 
 
 
