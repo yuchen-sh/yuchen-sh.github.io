@@ -23,9 +23,9 @@
 
 
 ## <span id="j1"><font color='darkblue' face="Georgia">ABOUT ME</font></span>
-I am an ECE Ph.D. candidate at [Georgia Institute of Technology](https://www.gatech.edu/). My research interest mainly focuses on wireless networking, mmWave communication, mobile computing, Wi-Fi, and next-generation cellular networks. Besides my research areas, I am also interested in developing system-level simulators such as ns-3 software, and automatic testing tools.
+I am an ECE Ph.D. candidate at [Georgia Institute of Technology](https://www.gatech.edu/). My research interest mainly focuses on wireless network, mmWave communication, mobile computing, Wi-Fi, and optimization and machine learning for networks. Besides, I am also participated in the project of developing system-level network simulator [ns-3](https://www.nsnam.org/).
                
-After getting the master degree from Shanghai Jiao Tong University in China, I am currently a Ph.D. candidate at Georgia Tech in USA, and work with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) on projects of maximizing performance for mmWave wireless networks, and developing network simulators. In addition, I am an instructor of an ECE undergraduate course, and responsible for lectures and supervising labs.
+After getting the master degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in China, I am currently a Ph.D. candidate at Georgia Tech in USA, and work with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) on projects of maximizing performance for next-generation wireless networks, and developing network simulators. In addition, I was an instructor of an ECE undergraduate course, and responsible for lectures and supervising labs.
 
 You can contact me at yuchen.liu.sn at gmail dot com.
 
