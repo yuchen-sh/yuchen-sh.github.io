@@ -31,8 +31,6 @@ After getting the master degree from [Shanghai Jiao Tong University](https://www
 
 You can contact me at yuchen.liu at gatech dot edu, yuchen.liu.sn at gmail dot com.
 
-"A *good* plan today is *better* than a *best* plan tomorrow".
-
 "*Challenge* brings its own *opportunity* and *solution*".
 
 
