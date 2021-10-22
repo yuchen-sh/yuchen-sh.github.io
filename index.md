@@ -25,7 +25,7 @@
 ## <span id="j1"><font color='darkblue' face="Georgia">ABOUT ME</font></span>
 ## I am currently on the academic job market.
 
-I am an ECE Ph.D. candidate at [Georgia Institute of Technology](https://www.gatech.edu/). My research interests lie in the areas of next-generation networks and systems, spanning wireless networking, mmWave communication, mobile computing, optimization and machine learning for networks and systems. I am also involved in the project of developing open-source network simulator [ns-3](https://www.nsnam.org/).
+I am an ECE Ph.D. candidate at [Georgia Institute of Technology](https://www.gatech.edu/). My research interests lie in the areas of next-generation networks and systems, spanning wireless networking, mmWave communication, mobile computing, optimization and machine learning for networks and systems. I am also involved in the project of developing the open-source network simulator [ns-3](https://www.nsnam.org/).
                
 After getting the master degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in China, I am currently a Ph.D. candidate at Georgia Tech in USA, and work with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) on projects of maximizing performance for next-generation wireless networks, and developing network simulators. In addition, I was an instructor of an ECE undergraduate course, and responsible for lectures and supervising labs.
 
