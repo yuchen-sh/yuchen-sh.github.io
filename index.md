@@ -16,8 +16,10 @@
             <style>   
                #img1{transform:rotate(0deg);}
             </style>
-            </head>     
-            <img id="img1" src="/Yuchen_1.png" width="50%" height="50%">
+            </head>
+            <div align=center>
+            <img id="img1" src="/Yuchen_1.png" width="70%" height="70%">
+            </div>
           </td>
      </tr>
 </table>
