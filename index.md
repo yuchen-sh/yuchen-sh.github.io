@@ -28,8 +28,6 @@
 <body>
      <span>
             Ph.D. Candidate, Georgia Tech
-            School of Electrical and Computer Engineering 
-            Email: yuchen.liu at gatech.edu, yuchen.liu.sn at gmail.com
      </span>
      <img id="img1" src="/Yuchen_1.png" width="20%" height="20%" alt='' />
  </body>
