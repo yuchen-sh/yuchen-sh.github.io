@@ -42,7 +42,9 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
   * network optimization and resilience (theory, hybrid solution for large-scale network systems)
   * software and simulator design for computer networks (open-source testbed, ns-3)
 
-### I will be joining the Computer Science Department at North Carolina State University (NCSU) as an tenure-track Assistant Professor in Fall 2022. I am looking for multiple PhDs / masters to work in the area of Advanced Networking and Systems. If you are a prospective student interested in applying to NCSU and working with me, please drop me an email at yuchen.liu.sn at gmail dot com with your CV, and I will do my best to help in your journey once we have a commitment to each other.
+I will be joining the Computer Science Department at North Carolina State University (NCSU) as an tenure-track Assistant Professor in Fall 2022. I am looking for multiple PhDs / masters to work in the area of Advanced Networking and Systems. 
+
+If you are a prospective student interested in applying to NCSU and working with me, please drop me an email at yuchen.liu.sn at gmail dot com with your CV, and I will do my best to help in your journey once we have a commitment to each other.
 
 
 "*Challenge* brings its own *opportunity* and *solution*".
