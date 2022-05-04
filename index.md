@@ -6,7 +6,8 @@
 <table border="0" align="center">
      <tr>
           <td width="60%">
-            <h1><font face="Times" size='5' color='darkblue'>YUCHEN LIU</font></h1>
+            <!-- <h1><font face="Times" size='5' color='darkblue'>YUCHEN LIU</font></h1> -->
+            <p><b><font face="Times" size='5' color='darkblue'>YUCHEN LIU</font></b></p>
             <p><b>Ph.D. Candidate, Georgia Tech</b></p>
             <p><b>School of Electrical and Computer Engineering</b></p>  
             <p><b>Email: yuchen.liu at gatech.edu, yuchen.liu.sn at gmail.com</b></p>
