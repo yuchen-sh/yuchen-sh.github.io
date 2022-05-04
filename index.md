@@ -19,7 +19,7 @@
             </style>
             </head>
             <div align=center>
-            <img id="img1" src="/Yuchen_1.png" width="20%" height="20%">
+            <img id="img1" src="/Yuchen_1.png" width="90%" height="90%">
             </div>
           </td>
      </tr>
@@ -32,7 +32,7 @@
             <p><b>School of Electrical and Computer Engineering</b></p>  
             <p><b>Email: yuchen.liu at gatech.edu, yuchen.liu.sn at gmail.com</b></p>
      </span>
-     <img id="img1" src="/Yuchen_1.png" width="90%" height="90%">
+     <img id="img1" src="/Yuchen_1.png" width="20%" height="20%">
  </body>
 
 
