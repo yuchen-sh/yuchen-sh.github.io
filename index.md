@@ -24,7 +24,7 @@ td, th {
             </style>
             </head>
             <div align=center>
-            <img id="img1" src="/Yuchen_1.png" width="70%" height="70%">
+            <img id="img1" src="/Yuchen_1.png" width="80%" height="80%">
             </div>
           </td>
      </tr>
