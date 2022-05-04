@@ -33,7 +33,7 @@ I am a fifth-year Ph.D. candidate at [Georgia Institute of Technology](https://w
 
 <!-- My research interests lie in the areas of next-generation networks and systems, spanning wireless networking, mmWave communication, mobile computing, optimization and machine learning for networks and systems. I am also involved in the project of developing the open-source network simulator [ns-3](https://www.nsnam.org/). -->
 
-Rapid technological innovations are necessary to keep up with ever-accelerating human demands, and my long-term research goal is to increase the intelligence, capacity, and robustness of network systems that support emerging applications on mobile edges, and enable the freedom through untethered and smart connectivity. Therefore, my research covers broad areas of networking, computing, and communication, spanning:
+Rapid technological innovations are necessary to keep up with ever-accelerating human demands, and my long-term research goal is to increase the intelligence, capacity, and robustness of network systems that support emerging applications on mobile edges, enabling the freedom experience through untethered and smart connectivity. Therefore, my research covers broad areas of networking, computing, and communication, spanning:
 
   * **wireless networking and systems** (new architecture, protocols, and algorithms) 
   * **mobile computing** (robotic networking, infrastructure mobility)
@@ -44,7 +44,7 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
 
 <font color='red'> I will be joining the Computer Science Department at [North Carolina State University (NCSU)](https://www.csc.ncsu.edu/) as an tenure-track Assistant Professor in Fall 2022. I am looking for multiple PhDs / masters to work in the area of Advanced Networking and Systems. </font>
 
-If you are a prospective student interested in applying to NCSU and working with me, please drop me an email at yuchen.liu.sn at gmail dot com with your CV, and I will do my best to help in your journey once we have a commitment to each other.
+<font color='red'> If you are a prospective student interested in applying to NCSU and working with me, please drop me an email at yuchen.liu.sn at gmail dot com with your CV, and I will do my best to help in your journey once we have a commitment to each other. </font>
 
 
 "*Challenge* brings its own *opportunity* and *solution*".
