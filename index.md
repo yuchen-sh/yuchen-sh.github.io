@@ -26,6 +26,7 @@
 </table> -->
 
 <div style="display:flex;justify:space-between">
+      <h1><font face="Times" size='5' color='darkblue'>YUCHEN LIU</font></h1>
       <p>Ph.D. Candidate, Georgia Tech</p>
       <img id="img1" src="/Yuchen_1.png" width="20%" height="20%" alt='' />
 </div>
