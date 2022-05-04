@@ -26,10 +26,7 @@
 </table> -->
 
 <div style="display:flex;justify:space-between">
-      <h1><font face="Times" size='5' color='darkblue'>YUCHEN LIU</font></h1>
-      <p><b>Ph.D. Candidate, Georgia Tech</b></p>
-      <p><b>School of Electrical and Computer Engineering</b></p>  
-      <p><b>Email: yuchen.liu at gatech.edu, yuchen.liu.sn at gmail.com</b></p>
+      <p>Ph.D. Candidate, Georgia Tech</p>
       <img id="img1" src="/Yuchen_1.png" width="20%" height="20%" alt='' />
 </div>
 
