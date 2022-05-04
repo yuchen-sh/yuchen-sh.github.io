@@ -26,7 +26,7 @@
 </table> -->
 
 <div style="display:flex;justify:space-between">
-      <h1><font face="Times" size='5' color='darkblue'>YUCHEN LIU</font></h1><br />
+      <h1><font face="Times" size='5' color='darkblue'>YUCHEN LIU</font><br /></h1>
        <p>
             Ph.D. Candidate, Georgia Tech<br />
             School of Electrical and Computer Engineering     
