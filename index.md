@@ -27,7 +27,7 @@
 
 <div style="display:flex;justify:space-between">
        <p>
-            <font face="Times" size='5' color='darkblue'>YUCHEN LIU</font><br /><br />
+            **<font face="Times" size='5' color='darkblue'>YUCHEN LIU</font>**<br /><br />
             Ph.D. Candidate, Georgia Tech<br />
             School of Electrical and Computer Engineering<br />
             Office: Room 3201, Klaus Building<br />
@@ -38,7 +38,7 @@
 
 
 
-## <span id="j1"><font color='darkblue' face="Georgia">ABOUT ME</font></span>
+## <span id="j1"><font color='darkblue' face="Georgia" size='6'>ABOUT ME</font></span>
 <!-- ## I am currently on the academic job market. -->
 
 I am a fifth-year Ph.D. candidate at [Georgia Institute of Technology](https://www.gatech.edu/), working with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) in the Critical Networking Lab.
