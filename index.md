@@ -6,13 +6,15 @@
 <table border="0">
      <tr>
           <td width="60%">
+            <div align=center>
             <h1><font face="Times" size='5' color='darkblue'>YUCHEN LIU</font></h1>
             <p><b>Ph.D. Candidate, Georgia Tech</b></p>
             <p><b>School of Electrical and Computer Engineering</b></p>  
             <p><b>Email: yuchen.liu at gatech.edu, yuchen.liu.sn at gmail.com</b></p>
 <!--             <p><b><i>"Think deeply, think more."</i></b></p> -->
+            </div>
           </td>
-          <td width="40%">
+          <td width="30%">
             <head>   
             <style>   
                #img1{transform:rotate(0deg);}
