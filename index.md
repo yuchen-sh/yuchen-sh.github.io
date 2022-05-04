@@ -30,7 +30,8 @@
             <font face="Times" size='5' color='darkblue'>YUCHEN LIU</font><br /><br />
             Ph.D. Candidate, Georgia Tech<br />
             School of Electrical and Computer Engineering<br />
-            Email: yuchen.liu at gatech.edu, yuchen.liu.sn at gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            Office: Room 3201, Klaus Building
+            Email: yuchen.liu at gatech.edu, yuchen.liu.sn at gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        </p>
       <img id="img1" src="/Yuchen_1.png" width="20%" height="20%" alt='' />
 </div>
