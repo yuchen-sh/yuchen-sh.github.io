@@ -10,7 +10,7 @@
             <p><b>Ph.D. Candidate, Georgia Tech</b></p>
             <p><b>School of Electrical and Computer Engineering</b></p>  
             <p><b>Email: yuchen.liu at gatech.edu, yuchen.liu.sn at gmail.com</b></p>
-<!--             <p><b><i>"Think deeply, think more."</i></b></p> -->
+            <p><b><i>"Think deeply, think more."</i></b></p>
           </td>
           <td width="40%">
             <head>   
