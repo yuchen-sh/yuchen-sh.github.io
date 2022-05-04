@@ -3,7 +3,7 @@
 [<u><font size='4'>ABOUT</font></u>](#j1) &emsp;[<u><font size='4'>NEWS</font></u>](https://yuchen-sh.github.io/News) &emsp;[<u><font size='4'>EXPERIENCES</font></u>](https://yuchen-sh.github.io/EXPERIENCES) &emsp;[<u><font size='4'>PUBLICATIONS</font></u>](https://yuchen-sh.github.io/Recent-Publications/) &emsp; [<u><font size='4'>SERVICES</font></u>](https://yuchen-sh.github.io/SERVICES-SKILLS)
 
 
-<table border="0" align="center">
+<!-- <table border="0" align="center">
      <tr>
           <td width="60%">
             <h1><font face="Times" size='5' color='darkblue'>YUCHEN LIU</font></h1>
@@ -23,7 +23,17 @@
             </div>
           </td>
      </tr>
-</table>
+</table> -->
+
+<body>
+     <span>
+            <h1><font face="Times" size='5' color='darkblue'>YUCHEN LIU</font></h1>
+            <p><b>Ph.D. Candidate, Georgia Tech</b></p>
+            <p><b>School of Electrical and Computer Engineering</b></p>  
+            <p><b>Email: yuchen.liu at gatech.edu, yuchen.liu.sn at gmail.com</b></p>
+     </span>
+     <img id="img1" src="/Yuchen_1.png" width="90%" height="90%">
+ </body>
 
 
 
