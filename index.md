@@ -4,7 +4,7 @@
 
 <table border="0">
      <tr>
-          <td width="60%" length="70%">
+          <td width="60%">
             <h1><font face="Times" size='5' color='darkblue'>YUCHEN LIU</font></h1>
             <p><b>Ph.D. Candidate, Georgia Tech</b></p>
             <p><b>School of Electrical and Computer Engineering</b></p>  
@@ -17,7 +17,7 @@
                #img1{transform:rotate(0deg);}
             </style>
             </head>     
-            <img id="img1" src="/Yuchen_1.png">
+            <img id="img1" src="/Yuchen_1.png"=0.5x"">
           </td>
      </tr>
 </table>
