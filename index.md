@@ -26,9 +26,11 @@
 </table> -->
 
 <div style="display:flex;justify:space-between">
-       <p style="line-height: 40px;">
+       <!-- <p style="line-height: 40px;"> -->
+       <p>
+            &nbsp;<br />
             <b><font face="Georgia" size='5' color='darkblue'>YUCHEN LIU</font></b><br /><br />
-            <font size='10'>Ph.D. Candidate, Georgia Tech</font><br />
+            Ph.D. Candidate, Georgia Tech<br />
             School of Electrical and Computer Engineering<br />
             Office: Room 3201, Klaus Building<br />
             Email: yuchen.liu at gatech.edu, yuchen.liu.sn at gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
