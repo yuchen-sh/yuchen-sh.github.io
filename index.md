@@ -12,14 +12,14 @@
             <p><b>Email: yuchen.liu at gatech.edu, yuchen.liu.sn at gmail.com</b></p>
 <!--             <p><b><i>"Think deeply, think more."</i></b></p> -->
           </td>
-          <td width="25%">
+          <td width="40%">
             <head>   
             <style>   
                #img1{transform:rotate(0deg);}
             </style>
             </head>
             <div align=center>
-            <img id="img1" src="/Yuchen_1.png" width="80%" height="80%">
+            <img id="img1" src="/Yuchen_1.png" width="90%" height="90%">
             </div>
           </td>
      </tr>
