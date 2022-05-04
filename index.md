@@ -35,14 +35,14 @@ I am a fifth-year Ph.D. candidate at [Georgia Institute of Technology](https://w
 
 Rapid technological innovations are necessary to keep up with ever-accelerating human demands, and my long-term research goal is to increase the intelligence, capacity, and robustness of network systems that support emerging applications on mobile edges, and enable the freedom through untethered and smart connectivity. Therefore, my research covers broad areas of networking, computing, and communication, spanning:
 
-  * wireless networking and systems (new architecture, protocols, and algorithms) 
-  * mobile computing (robotic networking, infrastructure mobility)
-  * machine learning for networking, sensing, and system design (distributed learning, network data analytics)
-  * new communication paradigms (mmWave, THz) 
-  * network optimization and resilience (theory, hybrid solution for large-scale network systems)
-  * software and simulator design for computer networks (open-source testbed, ns-3)
+  * *wireless networking and systems* (new architecture, protocols, and algorithms) 
+  * *mobile computing* (robotic networking, infrastructure mobility)
+  * *machine learning for networking, sensing, and system design* (distributed learning, network data analytics)
+  * *new communication paradigms* (mmWave, THz) 
+  * *network optimization and resilience* (theory, hybrid solution for large-scale network systems)
+  * *software and simulator design for computer networks* (open-source testbed, ns-3)
 
-I will be joining the Computer Science Department at North Carolina State University (NCSU) as an tenure-track Assistant Professor in Fall 2022. I am looking for multiple PhDs / masters to work in the area of Advanced Networking and Systems. 
+<font color="#dd0000">I will be joining the Computer Science Department at [North Carolina State University (NCSU)](https://www.csc.ncsu.edu/) as an tenure-track Assistant Professor in Fall 2022. I am looking for multiple PhDs / masters to work in the area of Advanced Networking and Systems.</font><br />
 
 If you are a prospective student interested in applying to NCSU and working with me, please drop me an email at yuchen.liu.sn at gmail dot com with your CV, and I will do my best to help in your journey once we have a commitment to each other.
 
