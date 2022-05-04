@@ -7,7 +7,7 @@
      <tr>
           <td width="60%">
             <h1><font face="Times" size='5' color='darkblue'>YUCHEN LIU</font></h1>
-            <p><b><font size='3'>Ph.D. Candidate, Georgia Tech</font></b></p>
+            <p><b>Ph.D. Candidate, Georgia Tech</font></b></p>
             <p><b>School of Electrical and Computer Engineering</b></p>  
             <p><b>Email: yuchen.liu at gatech.edu, yuchen.liu.sn at gmail.com</b></p>
             <p><b><i>"Think deeply, think more."</i></b></p>
@@ -28,12 +28,12 @@
 <div style="display:flex;justify:space-between">
        <p>
             <b><font face="Georgia" size='5' color='darkblue'>YUCHEN LIU</font></b><br /><br />
-            Ph.D. Candidate, Georgia Tech<br />
+            <font size='3'>Ph.D. Candidate, Georgia Tech</font><br />
             School of Electrical and Computer Engineering<br />
             Office: Room 3201, Klaus Building<br />
             Email: yuchen.liu at gatech.edu, yuchen.liu.sn at gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        </p>
-      <img id="img1" src="/Yuchen_1.png" width="20%" height="20%" alt='' />
+      <img id="img1" src="/Yuchen_1.png" width="30%" height="30%" alt='' />
 </div>
 
 
