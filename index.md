@@ -38,7 +38,7 @@
 
 
 
-## <span id="j1"><font color='darkblue' face="Georgia" size='3'>ABOUT ME</font></span>
+## <span id="j1"><font color='darkblue' face="Georgia" size='5'>ABOUT ME</font></span>
 <!-- ## I am currently on the academic job market. -->
 
 I am a fifth-year Ph.D. candidate at [Georgia Institute of Technology](https://www.gatech.edu/), working with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) in the Critical Networking Lab.
