@@ -27,7 +27,7 @@
 
 <div style="display:flex;justify:space-between">
        <p>
-            YUCHEN LIU<br />
+            <font face="Times" size='5' color='darkblue'>YUCHEN LIU</font><br /><br />
             Ph.D. Candidate, Georgia Tech<br />
             School of Electrical and Computer Engineering<br />
             Email: yuchen.liu at gatech.edu, yuchen.liu.sn at gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
