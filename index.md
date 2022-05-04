@@ -32,7 +32,7 @@
             <p><b>School of Electrical and Computer Engineering</b></p>  
             <p><b>Email: yuchen.liu at gatech.edu, yuchen.liu.sn at gmail.com</b></p>
      </span>
-     <img id="img1" src="/Yuchen_1.png" width="20%" height="20%">
+     <img id="img1" src="/Yuchen_1.png" width="20%" height="20%" alt='' />
  </body>
 
 
