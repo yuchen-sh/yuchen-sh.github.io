@@ -25,18 +25,21 @@
      </tr>
 </table> -->
 
-<div style="display:flex;justify:space-between">
+<!-- <div style="display:flex;justify:space-between">
       <h1><font face="Times" size='5' color='darkblue'>YUCHEN LIU</font></h1>
       <p>Ph.D. Candidate, Georgia Tech</p>
       <img id="img1" src="/Yuchen_1.png" width="20%" height="20%" alt='' />
-</div>
+</div> -->
 
 
 
 ## <span id="j1"><font color='darkblue' face="Georgia">ABOUT ME</font></span>
 <!-- ## I am currently on the academic job market. -->
 
-I am a fifth-year Ph.D. candidate at [Georgia Institute of Technology](https://www.gatech.edu/), working with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) in the Critical Networking Lab.
+<div style="display:flex;justify:space-between">
+   <p>I am a fifth-year Ph.D. candidate at [Georgia Institute of Technology](https://www.gatech.edu/), working with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) in the Critical Networking Lab.</p>
+   <img id="img1" src="/Yuchen_1.png" width="20%" height="20%" alt='' />
+</div> -->
                
 <!-- After getting the master degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in China, I am currently a Ph.D. candidate at Georgia Tech in USA, and work with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) on projects of maximizing performance for next-generation wireless networks, and developing network simulators. In addition, I was an instructor of an ECE undergraduate course, and responsible for lectures and supervising labs. -->
 
