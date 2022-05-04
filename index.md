@@ -27,7 +27,7 @@
 
 <div style="display:flex;justify:space-between">
        <p>
-            <b><font face="Times" size='5' color='darkblue'>YUCHEN LIU</font></b>**<br /><br />
+            <b><font face="Georgia" size='5' color='darkblue'>YUCHEN LIU</font></b><br /><br />
             Ph.D. Candidate, Georgia Tech<br />
             School of Electrical and Computer Engineering<br />
             Office: Room 3201, Klaus Building<br />
