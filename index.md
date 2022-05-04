@@ -30,7 +30,7 @@
             YUCHEN LIU<br />
             Ph.D. Candidate, Georgia Tech<br />
             School of Electrical and Computer Engineering<br />
-            Email: yuchen.liu at gatech.edu, yuchen.liu.sn at gmail.com &emsp &emsp &emsp &emsp &emsp
+            Email: yuchen.liu at gatech.edu, yuchen.liu.sn at gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        </p>
       <img id="img1" src="/Yuchen_1.png" width="20%" height="20%" alt='' />
 </div>
