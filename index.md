@@ -19,7 +19,7 @@
             </style>
             </head>
             <div align=center>
-            <img id="img1" src="/Yuchen_1.png" width="90%" height="90%">
+            <img id="img1" src="/Yuchen_1.png" width="20%" height="20%">
             </div>
           </td>
      </tr>
