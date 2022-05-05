@@ -51,7 +51,7 @@ I am a fifth-year Ph.D. candidate at [Georgia Institute of Technology](https://w
 
 Rapid technological innovations are necessary to keep up with ever-accelerating human demands, and my long-term research goal is to increase the intelligence, capacity, and robustness of network systems that support emerging applications on mobile edges, and enable the freedom experience through untethered and smart connectivity. Therefore, my research covers broad areas of networking, computing, and communication, spanning:
 
-  * **wireless networking and systems** (new architecture, protocols, and algorithms) 
+  * **wireless networking and systems** (new architecture, protocols, algorithms, and security) 
   * **mobile computing** (robotic networking, infrastructure mobility)
   * **machine learning for networking, sensing, and system design** (distributed/on-device learning, self-awareness system, network data analytics)
   * **new communication paradigms** (mmWave, THz) 
