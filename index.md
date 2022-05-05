@@ -49,13 +49,13 @@ I am a fifth-year Ph.D. candidate at [Georgia Institute of Technology](https://w
 
 <!-- My research interests lie in the areas of next-generation networks and systems, spanning wireless networking, mmWave communication, mobile computing, optimization and machine learning for networks and systems. I am also involved in the project of developing the open-source network simulator [ns-3](https://www.nsnam.org/). -->
 
-Rapid technological innovations are necessary to keep up with ever-accelerating human demands, and my long-term research goal is to increase the intelligence, capacity, and robustness of network systems that support emerging applications on mobile edges, enabling the freedom experience through untethered and smart connectivity. Therefore, my research covers broad areas of networking, computing, and communication, spanning:
+Rapid technological innovations are necessary to keep up with ever-accelerating human demands, and my long-term research goal is to increase the intelligence, capacity, and robustness of network systems that support emerging applications on mobile edges, and enable the freedom experience through untethered and smart connectivity. Therefore, my research covers broad areas of networking, computing, and communication, spanning:
 
   * **wireless networking and systems** (new architecture, protocols, and algorithms) 
   * **mobile computing** (robotic networking, infrastructure mobility)
-  * **machine learning for networking, sensing, and system design** (distributed learning, self-awareness system, network data analytics)
+  * **machine learning for networking, sensing, and system design** (distributed/on-device learning, self-awareness system, network data analytics)
   * **new communication paradigms** (mmWave, THz) 
-  * **network optimization and resilience** (theory, hybrid solution for large-scale network systems)
+  * **network optimization and resilience** (theory, hybrid design for large-scale network systems)
   * **software and simulator design for computer networks** (open-source testbed, ns-3)
 
 **<font color='red'>I will be joining the Computer Science Department at North Carolina State University (NCSU) as a tenure-track Assistant Professor in Fall 2022. I am looking for multiple PhDs / masters to work in the area of advanced networking and systems.</font>**
