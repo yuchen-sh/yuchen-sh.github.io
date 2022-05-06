@@ -49,7 +49,7 @@ I am a fifth-year Ph.D. candidate at [Georgia Institute of Technology](https://w
 
 <!-- My research interests lie in the areas of next-generation networks and systems, spanning wireless networking, mmWave communication, mobile computing, optimization and machine learning for networks and systems. I am also involved in the project of developing the open-source network simulator [ns-3](https://www.nsnam.org/). -->
 
-Rapid technological innovations are necessary to keep up with ever-accelerating human demands, and my long-term research goal is to increase the intelligence, capacity, and robustness of network systems that support emerging applications on mobile edges, and enable the freedom experience through untethered and smart connectivity for work, entertainment, social connections, and health, etc. Therefore, my research covers broad areas of networking, computing, and communication, spanning:
+Rapid technological innovations are necessary to keep up with ever-accelerating human demands, and my long-term research goals are to increase the intelligence, capacity, and robustness of network systems that support emerging applications on mobile edges, and to enable the freedom experience through untethered and smart connectivity for work, entertainment, social connections, and health, etc. Therefore, my research covers broad areas of networking, computing, and communication, spanning:
 
   * **wireless networking and systems** (new architecture, protocols, algorithms, and security) 
   * **mobile computing** (robotic networking, infrastructure mobility)
