@@ -54,7 +54,7 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
   * **wireless networking and systems** (new architecture, protocols, algorithms, and security) 
   * **mobile computing** (robotic networking, infrastructure mobility)
   * **machine learning for networking, sensing, and system design** (distributed/on-device learning, self-awareness system, network data analytics)
-  * **new communication paradigms** (mmWave, THz) 
+  * **new communication paradigms** (mmWave, THz, nextG Wi-Fi) 
   * **network optimization and resilience** (theory, hybrid design for large-scale network systems)
   * **software and simulator design for computer networks** (programmable networking, open-source testbed, ns-3)
 
