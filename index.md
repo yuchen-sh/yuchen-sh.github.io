@@ -56,7 +56,7 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
   * **machine learning for networking, sensing, and system design** (distributed/on-device learning, self-awareness system, network data analytics)
   * **new communication paradigms** (mmWave, THz) 
   * **network optimization and resilience** (theory, hybrid design for large-scale network systems)
-  * **software and simulator design for computer networks** (programmable networks, open-source testbed, ns-3)
+  * **software and simulator design for computer networks** (programmable networking, open-source testbed, ns-3)
 
 **<font color='red'>I will be joining the Computer Science Department at North Carolina State University (NCSU) as a tenure-track Assistant Professor in Fall 2022. I am looking for multiple PhDs / masters to work in the area of advanced networking and systems.</font>**
 
