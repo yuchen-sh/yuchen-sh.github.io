@@ -30,7 +30,7 @@
        <p>
             &nbsp;<br />
             <b><font face="Georgia" size='5'>YUCHEN LIU</font></b><br /><br />
-            <font size='4'>Ph.D. Candidate, Georgia Tech</font><br />
+            <font size='4'>Ph.D., Georgia Tech</font><br />
             School of Electrical and Computer Engineering<br />
             Office: Room 3201, Klaus Building<br />
             Email: yuchen.liu at gatech.edu, yuchen.liu.sn at gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -43,7 +43,7 @@
 ## <span id="j1"><font color='darkblue' face="Georgia" size='5'>ABOUT ME</font></span>
 <!-- ## I am currently on the academic job market. -->
 
-I got my Ph.D. degree at [Georgia Institute of Technology](https://www.gatech.edu/), worked with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) in the Critical Networking Lab. **<font color='red'>I will be joining the Computer Science Department at North Carolina State University (NCSU) as a tenure-track Assistant Professor in Fall 2022</font>**.
+I got my Ph.D. degree at [Georgia Institute of Technology](https://www.gatech.edu/), worked with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) in the Critical Networking Lab. **I will be joining the Computer Science Department at North Carolina State University (NCSU) as a tenure-track Assistant Professor in Fall 2022**.
                
 <!-- After getting the master degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in China, I am currently a Ph.D. candidate at Georgia Tech in USA, and work with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) on projects of maximizing performance for next-generation wireless networks, and developing network simulators. In addition, I was an instructor of an ECE undergraduate course, and responsible for lectures and supervising labs. -->
 
