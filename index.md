@@ -43,7 +43,7 @@
 ## <span id="j1"><font color='darkblue' face="Georgia" size='5'>ABOUT ME</font></span>
 <!-- ## I am currently on the academic job market. -->
 
-I got my Ph.D. degree at [Georgia Institute of Technology](https://www.gatech.edu/), worked with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) in the Critical Networking Lab. I will be joining the Computer Science Department at North Carolina State University (NCSU) as a tenure-track Assistant Professor in Fall 2022.
+I got my Ph.D. degree at [Georgia Institute of Technology](https://www.gatech.edu/), worked with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) in the Critical Networking Lab. **<font color='red'>I will be joining the Computer Science Department at North Carolina State University (NCSU) as a tenure-track Assistant Professor in Fall 2022</font>**.
                
 <!-- After getting the master degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in China, I am currently a Ph.D. candidate at Georgia Tech in USA, and work with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) on projects of maximizing performance for next-generation wireless networks, and developing network simulators. In addition, I was an instructor of an ECE undergraduate course, and responsible for lectures and supervising labs. -->
 
