@@ -7,9 +7,9 @@
      <tr>
           <td width="60%">
             <h1><font face="Times" size='5' color='darkblue'>YUCHEN LIU</font></h1>
-            <p><b>Ph.D., Georgia Tech</font></b></p>
+            <p><b>Assistant Professor, North Carolina State University</font></b></p>
             <p><b>School of Electrical and Computer Engineering</b></p>  
-            <p><b>Email: yuchen.liu at gatech.edu, yuchen.liu.sn at gmail.com</b></p>
+            <p><b>Email: yuchen.liu at ncsu.edu, yuchen.liu.sn at gmail.com</b></p>
             <p><b><i>"Think deeply, think more."</i></b></p>
           </td>
           <td width="40%">
@@ -30,10 +30,10 @@
        <p>
             &nbsp;<br />
             <b><font face="Georgia" size='5'>YUCHEN LIU</font></b><br /><br />
-            <font size='4'>Ph.D., Georgia Tech</font><br />
-            School of Electrical and Computer Engineering<br />
-            Office: Room 3201, Klaus Building<br />
-            Email: yuchen.liu at gatech.edu, yuchen.liu.sn at gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            <font size='4'>Ph.D.</font><br />
+            The Department of Computer Science<br />
+            Office: Room 3320, Engineering Building II<br />
+            Email: yuchen.liu at ncsu.edu, yuchen.liu.sn at gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        </p>
       <img id="img1" src="/Yuchen_1.png" width="30%" height="30%" alt='' />
 </div>
@@ -43,7 +43,7 @@
 ## <span id="j1"><font color='darkblue' face="Georgia" size='5'>ABOUT ME</font></span>
 <!-- ## I am currently on the academic job market. -->
 
-I got my Ph.D. degree at [Georgia Institute of Technology](https://www.gatech.edu/), worked with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) in the Critical Networking Lab. **<font color='red'>I will be joining the Computer Science Department at North Carolina State University (NCSU) as a tenure-track Assistant Professor in Fall 2022</font>**.
+I got my Ph.D. degree at [Georgia Institute of Technology](https://www.gatech.edu/), worked with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) in the Critical Networking Lab. **<font color='red'>I am joining the Computer Science Department at North Carolina State University (NCSU) as a tenure-track Assistant Professor in 2022</font>**.
                
 <!-- After getting the master degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in China, I am currently a Ph.D. candidate at Georgia Tech in USA, and work with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) on projects of maximizing performance for next-generation wireless networks, and developing network simulators. In addition, I was an instructor of an ECE undergraduate course, and responsible for lectures and supervising labs. -->
 
@@ -60,7 +60,7 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
 
 **<font color='red'>I am looking for multiple PhDs / masters to work in the area of advanced networking and intelligent systems.</font>**
 
-If you are a prospective student interested in applying to [NCSU](https://www.ncsu.edu/) and working with me, please drop me an email at yuchen.liu.sn at gmail dot com with your CV, and I will do my best to help in your journey once we have a commitment to each other.
+If you are a prospective student interested in applying to [NCSU](https://www.ncsu.edu/) and working with me, please drop me an email at yuchen.liu at ncsu dot edu with your CV, and I will do my best to help in your journey once we have a commitment to each other.
 
 
 "*Challenge* brings its own *opportunity* and *solution*".
