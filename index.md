@@ -30,9 +30,10 @@
        <p>
             &nbsp;<br />
             <b><font face="Georgia" size='5'>YUCHEN LIU</font></b><br /><br />
-            <font size='4'>Ph.D.</font><br />
+            <font size='4'>Ph.D., Assistant Professor</font><br />
             The Department of Computer Science<br />
-            Office: Room 3320, Engineering Building II<br />
+            North Carolina State University<br />
+            Office: Room 2272, Engineering Building II<br />
             Email: yuchen.liu at ncsu.edu, yuchen.liu.sn at gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        </p>
       <img id="img1" src="/Yuchen_1.png" width="30%" height="30%" alt='' />
@@ -43,7 +44,7 @@
 ## <span id="j1"><font color='darkblue' face="Georgia" size='5'>ABOUT ME</font></span>
 <!-- ## I am currently on the academic job market. -->
 
-I got my Ph.D. degree at [Georgia Institute of Technology](https://www.gatech.edu/), worked with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) in the Critical Networking Lab. I am joining the Department of Computer Science at [North Carolina State University (NCSU)](https://www.ncsu.edu/) as a tenure-track Assistant Professor in 2022.
+I received my Ph.D. degree at [Georgia Institute of Technology](https://www.gatech.edu/), worked with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) in the Critical Networking Lab. I am currently a tenure-track Assistant Professor in the Department of Computer Science at [North Carolina State University (NCSU)](https://www.ncsu.edu/).
                
 <!-- After getting the master degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in China, I am currently a Ph.D. candidate at Georgia Tech in USA, and work with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) on projects of maximizing performance for next-generation wireless networks, and developing network simulators. In addition, I was an instructor of an ECE undergraduate course, and responsible for lectures and supervising labs. -->
 
