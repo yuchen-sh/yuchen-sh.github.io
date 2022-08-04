@@ -33,8 +33,8 @@
             <font size='4'>Ph.D., Assistant Professor</font><br />
             <a href="https://www.csc.ncsu.edu/">The Department of Computer Science</a><br />
             North Carolina State University<br />
-            <p><b>Office:</b> Room 2272, Engineering Building II<br /></p>
-            <p><b>Email:</b> yuchen.liu at ncsu.edu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+            <b>Office:</b> Room 2272, Engineering Building II<br />
+            <b>Email:</b> yuchen.liu at ncsu.edu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        </p>
       <img id="img1" src="/Yuchen_1.png" width="30%" height="30%" alt='' />
 </div>
