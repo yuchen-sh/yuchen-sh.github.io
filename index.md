@@ -33,8 +33,8 @@
             <font size='4'>Ph.D., Assistant Professor</font><br />
             <a href="https://www.csc.ncsu.edu/">The Department of Computer Science</a><br />
             North Carolina State University<br />
-            <b>Office:</b> Room 2272, Engineering Building II<br />
-            <b>Email:</b> yuchen.liu at ncsu.edu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            <p><b>Office:</b></p> Room 2272, Engineering Building II<br />
+            <p><b>Email:</b></p> yuchen.liu at ncsu.edu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        </p>
       <img id="img1" src="/Yuchen_1.png" width="30%" height="30%" alt='' />
 </div>
@@ -57,7 +57,7 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
   * **machine learning for networking, sensing, and system design** (distributed/on-device learning, self-awareness system, network data analytics)
   * **new communication paradigms** (mmWave, THz, nextG Wi-Fi) 
   * **network optimization and resilience** (theory, hybrid design for large-scale network systems)
-  * **software design for computer networks** (programmable networking, open-source testbed, ns-3)
+  * **software development for computer networks** (programmable networking, open-source testbed, ns-3)
 
 **<font color='red'>I am looking for multiple PhDs / masters to work in the area of advanced networking and intelligent systems.</font>**
 
