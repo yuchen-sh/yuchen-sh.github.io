@@ -33,7 +33,8 @@
             &nbsp;<br />
             <b><font face="Georgia" size='5'>YUCHEN LIU</font></b><br /><br />
             <font size='4'>Ph.D., Assistant Professor</font><br />
-            <a href="https://www.csc.ncsu.edu/">The Department of Computer Science</a><br />
+            <a href="https://www.engr.ncsu.edu/">College of Engineering</a><br />
+            <a href="https://www.csc.ncsu.edu/">Department of Computer Science</a><br />
             North Carolina State University<br />
             <b>Office:</b> Room 2272, Engineering Building II<br />
             <b>Email:</b> yuchen.liu at ncsu.edu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
