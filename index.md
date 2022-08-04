@@ -31,7 +31,7 @@
             &nbsp;<br />
             <b><font face="Georgia" size='5'>YUCHEN LIU</font></b><br /><br />
             <font size='4'>Ph.D., Assistant Professor</font><br />
-            The Department of Computer Science<br />
+            <a href="https://www.csc.ncsu.edu/">The Department of Computer Science</a><br />
             North Carolina State University<br />
             Office: Room 2272, Engineering Building II<br />
             Email: yuchen.liu at ncsu.edu, yuchen.liu.sn at gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -41,7 +41,7 @@
 
 
 
-## <span id="j1"><font color='darkblue' face="Georgia" size='5'>ABOUT ME</font></span>
+## <span id="j1"><font color='darkblue' face="Georgia" size='5'>Bio</font></span>
 <!-- ## I am currently on the academic job market. -->
 
 I received my Ph.D. degree at [Georgia Institute of Technology](https://www.gatech.edu/), worked with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) in the Critical Networking Lab. I am currently a tenure-track Assistant Professor in the Department of Computer Science at [North Carolina State University (NCSU)](https://www.ncsu.edu/).
