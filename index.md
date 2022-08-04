@@ -1,5 +1,7 @@
 <!-- [<u><font size='4'>ABOUT</font></u>](#j1) &emsp;[<u><font size='4'>NEWS</font></u>](https://yuchen-sh.github.io/News) &emsp;[<u><font size='4'>COURSEWORK</font></u>](https://yuchen-sh.github.io/Coursework) &emsp;[<u><font size='4'>EXPERIENCES</font></u>](https://yuchen-sh.github.io/EXPERIENCES) &emsp;[<u><font size='4'>PUBLICATIONS</font></u>](https://yuchen-sh.github.io/Recent-Publications/) &emsp; [<u><font size='4'>PROJECTS</font></u>](https://yuchen-sh.github.io/Projects/) &emsp; [<u><font size='4'>AWARDS</font></u>](https://yuchen-sh.github.io/AWARDS) &emsp; [<u><font size='4'>SERVICES & SKILLS</font></u>](https://yuchen-sh.github.io/SERVICES-SKILLS) -->
 
+<img id="img2" src="/ncsu_logo.png" width="30%" height="30%" alt='' />
+
 [<u><font size='4'>ABOUT</font></u>](#j1) &emsp;[<u><font size='4'>NEWS</font></u>](https://yuchen-sh.github.io/News) &emsp; [<u><font size='4'>RESEARCH</font></u>](https://yuchen-sh.github.io/Projects/) &emsp; [<u><font size='4'>PUBLICATIONS</font></u>](https://yuchen-sh.github.io/Recent-Publications/) &emsp; [<u><font size='4'>TEACHING</font></u>](https://yuchen-sh.github.io/Coursework) &emsp; [<u><font size='4'>EXPERIENCES</font></u>](https://yuchen-sh.github.io/EXPERIENCES) &emsp; [<u><font size='4'>SERVICES</font></u>](https://yuchen-sh.github.io/SERVICES-SKILLS)
 
 
@@ -34,7 +36,7 @@
             <a href="https://www.csc.ncsu.edu/">The Department of Computer Science</a><br />
             North Carolina State University<br />
             <b>Office:</b> Room 2272, Engineering Building II<br />
-            <b>Email:</b> yuchen.liu at ncsu.edu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            <b>Email:</b> yuchen.liu at ncsu.edu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        </p>
       <img id="img1" src="/Yuchen_1.png" width="30%" height="30%" alt='' />
 </div>
