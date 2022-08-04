@@ -1,6 +1,6 @@
 <!-- [<u><font size='4'>ABOUT</font></u>](#j1) &emsp;[<u><font size='4'>NEWS</font></u>](https://yuchen-sh.github.io/News) &emsp;[<u><font size='4'>COURSEWORK</font></u>](https://yuchen-sh.github.io/Coursework) &emsp;[<u><font size='4'>EXPERIENCES</font></u>](https://yuchen-sh.github.io/EXPERIENCES) &emsp;[<u><font size='4'>PUBLICATIONS</font></u>](https://yuchen-sh.github.io/Recent-Publications/) &emsp; [<u><font size='4'>PROJECTS</font></u>](https://yuchen-sh.github.io/Projects/) &emsp; [<u><font size='4'>AWARDS</font></u>](https://yuchen-sh.github.io/AWARDS) &emsp; [<u><font size='4'>SERVICES & SKILLS</font></u>](https://yuchen-sh.github.io/SERVICES-SKILLS) -->
 
-<img id="img2" src="/ncsu_logo.png" width="30%" height="30%" alt='' />
+<img id="img2" src="/ncsu_logo.png" width="20%" height="20%" alt='' />
 
 [<u><font size='4'>ABOUT</font></u>](#j1) &emsp;[<u><font size='4'>NEWS</font></u>](https://yuchen-sh.github.io/News) &emsp; [<u><font size='4'>RESEARCH</font></u>](https://yuchen-sh.github.io/Projects/) &emsp; [<u><font size='4'>PUBLICATIONS</font></u>](https://yuchen-sh.github.io/Recent-Publications/) &emsp; [<u><font size='4'>TEACHING</font></u>](https://yuchen-sh.github.io/Coursework) &emsp; [<u><font size='4'>EXPERIENCES</font></u>](https://yuchen-sh.github.io/EXPERIENCES) &emsp; [<u><font size='4'>SERVICES</font></u>](https://yuchen-sh.github.io/SERVICES-SKILLS)
 
@@ -46,7 +46,7 @@
 ## <span id="j1"><font color='darkblue' face="Georgia" size='5'>Bio</font></span>
 <!-- ## I am currently on the academic job market. -->
 
-I received my Ph.D. degree at [Georgia Institute of Technology](https://www.gatech.edu/), worked with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) in the Critical Networking Lab. I am currently a tenure-track Assistant Professor in the Department of Computer Science at [North Carolina State University (NCSU)](https://www.ncsu.edu/).
+I received my Ph.D. degree at the [Georgia Institute of Technology](https://www.gatech.edu/), worked with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) in the Critical Networking Lab. I am currently a tenure-track Assistant Professor in the Department of Computer Science at [North Carolina State University (NCSU)](https://www.ncsu.edu/).
                
 <!-- After getting the master degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in China, I am currently a Ph.D. candidate at Georgia Tech in USA, and work with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) on projects of maximizing performance for next-generation wireless networks, and developing network simulators. In addition, I was an instructor of an ECE undergraduate course, and responsible for lectures and supervising labs. -->
 
