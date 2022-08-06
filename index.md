@@ -69,7 +69,7 @@ If you are a prospective student interested in applying to [NCSU](https://www.nc
 
 "*Challenge* brings its own *opportunity* and *solution*".
 
-<img id="img2" src="/ncsu_csc_logo2.png" width="40%" height="40%" alt='' />
+<img id="img2" src="/ncsu_csc_logo2.png" width="56%" height="56%" alt='' />
 
 
 
