@@ -62,7 +62,7 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
   * **network optimization and resilience** (theory, hybrid design for large-scale network systems)
   * **software development for computer networks** (programmable networking, open-source testbed, ns-3)
 
-**<font color='red'>I am looking for multiple Ph.D. / master students to work in the area of advanced networking and intelligent systems. Full financial support will be offered in the form of teaching assistantship or research assistantship.</font>**
+**<font color='red'>I am looking for multiple Ph.D. / master students to work in the area of advanced networking and intelligence. Full financial support will be offered in the form of teaching assistantship or research assistantship.</font>**
 
 If you are a prospective student interested in applying to [NCSU](https://www.ncsu.edu/) and working with me, please drop me an email at yuchen.liu at ncsu dot edu with your CV, and I will do my best to help in your journey once we have a commitment to each other.
 
