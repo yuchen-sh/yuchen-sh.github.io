@@ -45,7 +45,7 @@
 
 
 
-## <span id="j1"><font color='darkblue' face="Georgia" size='5'>Bio</font></span>
+## <span id="j1"><font color='darkblue' face="Georgia" size='5'>Biography</font></span>
 <!-- ## I am currently on the academic job market. -->
 
 I received my Ph.D. degree at the [Georgia Institute of Technology](https://www.gatech.edu/), worked with [Dr. Douglas M. Blough](http://blough.ece.gatech.edu/) in the Critical Networking Lab. I am currently a tenure-track Assistant Professor in the Department of Computer Science at [North Carolina State University (NCSU)](https://www.ncsu.edu/).
@@ -60,7 +60,7 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
   * **mobile computing** (infrastructure mobility, robotic networked systems)
   * **machine learning for networking, sensing, and system design** (distributed/on-device learning, self-awareness system, network data analytics)
   * **new communication paradigms** (mmWave, THz, nextG Wi-Fi) 
-  * **network optimization and resilience** (theory, hybrid design for large-scale network systems)
+  * **optimization and resilience** (theory, hybrid design for large-scale network systems)
   * **software development for computer networks** (programmable networking, open-source testbed, ns-3)
 
 **<font color='red'>I am looking for multiple Ph.D./M.S./Undergraduate students to work in the area of advanced networking and intelligence.</font>**
