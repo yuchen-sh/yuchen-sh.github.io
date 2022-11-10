@@ -63,7 +63,7 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
   * **optimization and resilience** (theory, large-scale systems)
   * **software development and simulation** (programmable networking, open-source testbed, ns-3)
 
-**<font color='red'>I am looking for multiple Ph.D./M.S./Undergraduate students and Interns to work in the area of advanced networking and intelligence.</font>**
+**<font color='red'>I am looking for multiple Ph.D./M.S./Undergraduate students andInterns to work in the area of advanced networking and intelligence.</font>**
 
 <!-- Full financial support will be offered in the form of teaching assistantship or research assistantship. -->
 
