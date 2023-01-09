@@ -36,6 +36,7 @@
             <font size='4'>Ph.D., Assistant Professor</font><br />
             <a href="https://www.engr.ncsu.edu/">College of Engineering</a><br />
             <a href="https://www.csc.ncsu.edu/">Department of Computer Science</a><br />
+            <a href="https://www.ece.ncsu.edu/">Department of Electrical and Computer Engineering (Courtesy)</a><br />
             North Carolina State University<br />
             <b>Office:</b> Room 2272, EB II<br />
             <b>Email:</b> yuchen.liu at ncsu.edu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
