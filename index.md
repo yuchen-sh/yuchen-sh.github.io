@@ -30,6 +30,7 @@
 
 <div style="display:flex;justify:space-between">
        <!-- <p style="line-height: 40px;"> -->
+       <img id="img1" src="/Yuchen_1.png" width="30%" height="30%" alt='' />
        <p>
             &nbsp;<br />
             <b><font face="Georgia" size='5'>YUCHEN LIU</font></b><br /><br />
@@ -41,7 +42,6 @@
             <b>Office:</b> Room 2272, EB II<br />
             <b>Email:</b> yuchen.liu at ncsu.edu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        </p>
-      <img id="img1" src="/Yuchen_1.png" width="30%" height="30%" alt='' />
 </div>
 
 
