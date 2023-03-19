@@ -1,7 +1,7 @@
 <!-- [<u><font size='4'>ABOUT</font></u>](#j1) &emsp;[<u><font size='4'>NEWS</font></u>](https://yuchen-sh.github.io/News) &emsp;[<u><font size='4'>COURSEWORK</font></u>](https://yuchen-sh.github.io/Coursework) &emsp;[<u><font size='4'>EXPERIENCES</font></u>](https://yuchen-sh.github.io/EXPERIENCES) &emsp;[<u><font size='4'>PUBLICATIONS</font></u>](https://yuchen-sh.github.io/Recent-Publications/) &emsp; [<u><font size='4'>PROJECTS</font></u>](https://yuchen-sh.github.io/Projects/) &emsp; [<u><font size='4'>AWARDS</font></u>](https://yuchen-sh.github.io/AWARDS) &emsp; [<u><font size='4'>SERVICES & SKILLS</font></u>](https://yuchen-sh.github.io/SERVICES-SKILLS) -->
 
 <!-- <img id="img2" src="/ncsu_logo2.png" width="36%" height="36%" alt='' /> -->
-<span id="j0"><img id="img5" src="/ncsu_coe.png" width="36%" height="36%" alt='' /></span>
+<span id="yliu"><img id="img5" src="/ncsu_coe.png" width="36%" height="36%" alt='' /></span>
 
 [<u><font size='4'>ABOUT</font></u>](#j1) &emsp;[<u><font size='4'>NEWS</font></u>](https://yuchen-sh.github.io/News) &emsp; [<u><font size='4'>RESEARCH</font></u>](https://yuchen-sh.github.io/Projects/) &emsp; [<u><font size='4'>PUBLICATIONS</font></u>](https://yuchen-sh.github.io/Recent-Publications/) &emsp; [<u><font size='4'>TEACHING</font></u>](https://yuchen-sh.github.io/Coursework) &emsp; [<u><font size='4'>EXPERIENCES</font></u>](https://yuchen-sh.github.io/EXPERIENCES) &emsp; [<u><font size='4'>SERVICES</font></u>](https://yuchen-sh.github.io/SERVICES-SKILLS) &emsp; [<u><font size='4'>NICE</font></u>](https://yuchen-sh.github.io/NICE-LAB)
 
