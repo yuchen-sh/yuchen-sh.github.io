@@ -57,7 +57,7 @@ I received my Ph.D. degree at the [Georgia Institute of Technology](https://www.
 
 Rapid technological innovations are necessary to keep up with ever-accelerating human demands, and my long-term research goals are to increase the intelligence, capacity, and robustness of network systems that support emerging applications on mobile edges, and to enable the freedom experience via untethered and smart connectivity for work, entertainment, social connections, health, etc. Therefore, my research covers broad areas of networking, computing, and communication, spanning:
 
-  * **networking and systems** (wireless, architecture, digital twins, protocols, and security) 
+  * **networking and systems** (wireless, protocols, digital twins, Open RAN, and security) 
   * **mobile computing** (infrastructure mobility, robotic networked systems)
   * **machine learning for networking, sensing, and system design** (distributed, reinforcement learning, self-awareness system, network data analytics)
   * **new communication paradigms** (mmWave, THz, nextG Wi-Fi) 
