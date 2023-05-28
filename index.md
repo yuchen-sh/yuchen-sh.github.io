@@ -61,7 +61,7 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
   * **mobile computing** (infrastructure mobility, robotic networked systems)
   * **machine learning for networking, sensing, and system design** (distributed, reinforcement learning, self-awareness system, network data analytics)
   * **new communication paradigms** (mmWave, THz, nextG Wi-Fi) 
-  * **optimization and resilience** (theory, large-scale systems)
+  * **optimization and resilience** (theory, large-scale models and systems)
   * **software development and simulation** (programmable networking, open-source testbed, ns-3)
 
 **<font color='red'>I am looking for multiple Ph.D./M.S./Undergraduate students and Research Interns to work in the area of advanced networking and intelligence.</font>**
