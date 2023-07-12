@@ -57,14 +57,14 @@ I received my Ph.D. degree at the [Georgia Institute of Technology](https://www.
 
 Rapid technological innovations are necessary to keep up with ever-accelerating human demands, and my long-term research goals are to increase the intelligence, capacity, and robustness of network systems that support emerging applications on mobile edges, and to enable the freedom experience via untethered and smart connectivity for work, entertainment, social connections, health, etc. Therefore, my research covers broad areas of networking, computing, and communication, spanning:
 
-  * **networking and systems** (wireless, protocols, digital twins, Open RAN, and security) 
-  * **mobile computing** (infrastructure mobility, robotic networked systems)
-  * **machine learning for networking, sensing, system design, and security** (generative model, reinforcement learning, self-awareness system, data analytics)
+  * **networking and systems** (wireless, digital twins, Open RAN, and security) 
+  * **mobile computing** (infrastructure mobility, UAVs, robotic networked systems)
+  * **machine learning for networking, sensing, system design, and security** (generative AI, reinforcement learning, self-awareness system, data analytics)
   * **new communication paradigms** (mmWave, THz, nextG Wi-Fi) 
   * **optimization and resilience** (theory, large-scale models and systems)
   * **software development and simulation** (programmable networking, open-source testbed, ns-3)
 
-**<font color='red'>I am looking for multiple Ph.D./M.S./Undergraduate students and Research Interns to work in the area of advanced networking and intelligence.</font>**
+**<font color='red'>I am looking for multiple Ph.D./M.S./Undergraduate students and Research Interns to work in the area of advanced networking and intelligence (in Fall 2023/2024, Spring 2024).</font>**
 
 <!-- Full financial support will be offered in the form of teaching assistantship or research assistantship. -->
 
