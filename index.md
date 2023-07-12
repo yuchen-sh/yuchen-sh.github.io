@@ -59,7 +59,7 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
 
   * **networking and systems** (wireless, digital twins, Open RAN, and security) 
   * **mobile computing** (infrastructure mobility, UAVs, robotic networked systems)
-  * **machine learning for networking, sensing, system design, and security** (generative AI, reinforcement learning, self-awareness system, data analytics)
+  * **machine learning for data, networking, sensing, system design, and security** (generative AI, reinforcement learning, self-awareness system, data analytics)
   * **new communication paradigms** (mmWave, THz, nextG Wi-Fi) 
   * **optimization and resilience** (theory, large-scale models and systems)
   * **software development and simulation** (programmable networking, open-source testbed, ns-3)
