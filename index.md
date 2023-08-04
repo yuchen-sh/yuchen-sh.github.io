@@ -68,7 +68,7 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
 
 ### Recent News
 
-* Congrats on three papers on UAV Localization, Complex Neural Networks, and Spatial-temporal prediction model for mmWave Networking got accepted in IEEE Global Communications Conference (GLOBECOM)! 
+* Congrats on the acceptance of our three papers focusing on UAV Localization, Complex Neural Networks, and the Spatial-Temporal Prediction Model for mmWave Networking at the IEEE Global Communications Conference (GLOBECOM)! 
 
 * We got the Best Paper Award for our paper titled "E-App: Adaptive mmWave Access Point Planning with Environmental Awareness in Wireless LANs” at IEEE International Conference on Computer Communications and Networks (ICCCN)!
 
