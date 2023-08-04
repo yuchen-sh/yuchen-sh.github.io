@@ -66,6 +66,14 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
   * **optimization and resilience** (theory, large-scale models and systems)
   * **software development and simulation** (programmable networking, open-source testbed, ns-3)
 
+### Recent News
+
+* Congrats on three papers on UAV Localization, Complex Neural Networks, and Spatial-temporal prediction model for mmWave Networking got accepted in IEEE Global Communications Conference (GLOBECOM)! 
+
+* We got the Best Paper Award for our paper titled "E-App: Adaptive mmWave Access Point Planning with Environmental Awareness in Wireless LANs” at IEEE International Conference on Computer Communications and Networks (ICCCN)!
+
+* Glad to serve as Associate Editor of IEEE Transactions on Green Communications and Networking, and please feel free to submit your work [here](https://www.comsoc.org/publications/journals/ieee-tgcn).
+
 **<font color='red'>I am looking for multiple Ph.D./M.S./Undergraduate students and Research Interns to work in the area of advanced networking and intelligence (in Fall 2023/2024, Spring 2024).</font>**
 
 <!-- Full financial support will be offered in the form of teaching assistantship or research assistantship. -->
