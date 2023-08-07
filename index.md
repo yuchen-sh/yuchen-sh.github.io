@@ -41,7 +41,8 @@
             <b>Office:</b> Room 2407, EB III<br />
             <b>Email:</b> yuchen.liu at ncsu.edu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        </p>
-     <img id="img1" src="/Yuchen_1.png" width="30%" height="30%" alt='' />
+     <!-- <img id="img1" src="/Yuchen_1.png" width="30%" height="30%" alt='' /> -->
+     <img id="img1" src="/Yuchen_Liu_ncsu.jpg" width="30%" height="30%" alt='' />
 </div>
 
 
