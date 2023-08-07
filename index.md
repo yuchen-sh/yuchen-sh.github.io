@@ -38,7 +38,7 @@
             <a href="https://www.csc.ncsu.edu/">Department of Computer Science</a><br />
             <a href="https://www.ece.ncsu.edu/">Department of Electrical & Computer Engineering (courtesy)</a><br />
             North Carolina State University<br />
-            <b>Office:</b> Room 2272, EB II<br />
+            <b>Office:</b> Room 2407, EB III<br />
             <b>Email:</b> yuchen.liu at ncsu.edu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        </p>
      <img id="img1" src="/Yuchen_1.png" width="30%" height="30%" alt='' />
