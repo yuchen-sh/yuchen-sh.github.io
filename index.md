@@ -67,7 +67,8 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
   * **optimization and resilience** (theory, large-scale models and systems)
   * **software development and simulation** (programmable networking, open-source testbed, ns-3)
 
-### <font color='blue'>Recent News</font>
+### <font color='blue'>Recent News</font> [more](https://yuchen-sh.github.io/News)
+* Congrats on the acceptance of our journal paper on Graph Neural Networks for Joint Communication and Sensing Optimization at IEEE Journal on Selected Areas in Communications (JSAC)!
 
 * Congrats on the acceptance of our three papers focusing on UAV Localization, Complex Neural Networks, and Spatial-Temporal Prediction Model at the IEEE Global Communications Conference (GLOBECOM)! 
 
