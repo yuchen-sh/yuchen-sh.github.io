@@ -76,7 +76,7 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
 
 * Glad to serve as Associate Editor of IEEE Transactions on Green Communications and Networking, and please feel free to submit your work [here](https://www.comsoc.org/publications/journals/ieee-tgcn).
 
-**<font color='red'>I am looking for multiple Ph.D./M.S./Undergraduate students and Research Interns to work in the area of advanced networking and intelligence (in Fall 2023/2024, Spring 2024).</font>**
+**<font color='red'>I am looking for multiple Ph.D./M.S./Undergraduate students and Research Interns to work in the area of network intelligence, digital twins, and generative AI (in Fall 2023/2024, Spring 2024).</font>**
 
 <!-- Full financial support will be offered in the form of teaching assistantship or research assistantship. -->
 
