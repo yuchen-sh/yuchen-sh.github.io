@@ -68,11 +68,11 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
   * **software development and simulation** (programmable networking, open-source testbed, ns-3)
 
 ### <font color='blue'>Recent News</font> [<u><font size='3'>more</font></u>](https://yuchen-sh.github.io/News)
-* Our project on "Digital Network Twins" is funded by the NSF CNS Core program, thanks <font color='blue'>NSF</font>!
+* Our project on "Digital Network Twins" is funded by the NSF CNS Core program, thanks NSF!
 
-* Congrats on the acceptance of our journal paper on Graph Neural Networks for Joint Communication and Sensing Optimization at IEEE Journal on Selected Areas in Communications (<font color='blue'>JSAC</font>)!
+* Congrats on the acceptance of our journal paper on Graph Neural Networks for Joint Communication and Sensing Optimization at IEEE Journal on Selected Areas in Communications (JSAC)!
 
-* Congrats on the acceptance of our three papers focusing on UAV Localization, Complex Neural Networks, and Spatial-Temporal Prediction Model at the IEEE Global Communications Conference (<font color='blue'>GLOBECOM</font>)! 
+* Congrats on the acceptance of our three papers focusing on UAV Localization, Complex Neural Networks, and Spatial-Temporal Prediction Model at the IEEE Global Communications Conference (GLOBECOM)! 
 
 * We got the <font color='blue'>Best Paper Award</font> for our paper titled "E-App: Adaptive mmWave Access Point Planning with Environmental Awareness in Wireless LANs” at IEEE International Conference on Computer Communications and Networks (ICCCN)!
 
