@@ -39,10 +39,10 @@
             <a href="https://www.ece.ncsu.edu/">Department of Electrical & Computer Engineering (courtesy)</a><br />
             North Carolina State University<br />
             <b>Office:</b> Room 2407, EB III<br />
-            <b>Email:</b> yuchen.liu at ncsu.edu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            <b>Email:</b> yuchen.liu AT ncsu.edu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        </p>
      <!-- <img id="img1" src="/Yuchen_1.png" width="30%" height="30%" alt='' /> -->
-     <img id="img1" src="/Yuchen_Liu_ncsu_new2.jpg" width="28%" height="28%" alt='' />
+     <img id="img1" src="/Yuchen_Liu_ncsu_new2.jpg" width="25%" height="25%" alt='' />
 </div>
 
 
