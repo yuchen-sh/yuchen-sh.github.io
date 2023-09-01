@@ -40,7 +40,7 @@
             North Carolina State University<br />
             <b>Office:</b> Room 2407, EB III<br />
             <b>Email:</b> yuchen.liu AT ncsu.edu<br />
-            <b>Phone:</b> +1 919-515-3412 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            <b>Phone:</b> +1 919-515-3412 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        </p>
      <!-- <img id="img1" src="/Yuchen_1.png" width="30%" height="30%" alt='' /> -->
      <img id="img1" src="/Yuchen_Liu_ncsu_new2.jpg" width="23%" height="23%" alt='' />
@@ -90,7 +90,7 @@ If you are a prospective student interested in applying to [NCSU](https://www.nc
 
 <br/>
 
-<img id="img3" src="/ncsu_csc_logo2.png" width="63%" height="63%" alt='' /> <img id="img4" src="/think_and_do.PNG" width="15%" height="15%" alt='' />
+<img id="img3" src="/ncsu_csc_logo2.png" width="63%" height="63%" alt='' /> <img id="img4" src="/think_and_do.PNG" width="12%" height="12%" alt='' />
 
 
 
