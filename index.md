@@ -40,6 +40,7 @@
             North Carolina State University<br />
             <b>Office:</b> Room 2407, EB III<br />
             <b>Email:</b> yuchen.liu AT ncsu.edu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            <b>Phone: +1 919-515-3412
        </p>
      <!-- <img id="img1" src="/Yuchen_1.png" width="30%" height="30%" alt='' /> -->
      <img id="img1" src="/Yuchen_Liu_ncsu_new2.jpg" width="25%" height="25%" alt='' />
@@ -85,7 +86,7 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
 If you are a prospective student interested in applying to [NCSU](https://www.ncsu.edu/) and working with me, please drop me an email at yuchen.liu at ncsu dot edu with your CV, and I will do my best to help in your journey once we have a commitment to each other.
 
 
-"*Challenge* brings its own *opportunity* and *solution*".
+**"*Challenge* brings its own *opportunity* and *solution*".**
 
 <br/>
 
