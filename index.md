@@ -44,6 +44,7 @@
             <b>Phone:</b> +1 919-515-3412 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        </p>
      <!-- <img id="img1" src="/Yuchen_1.png" width="30%" height="30%" alt='' /> -->
+     <!-- <img id="img1" src="/Yuchen_Liu_ncsu_new2.jpg" width="23%" height="23%" alt='' /> -->
      <img id="img1" src="/Yuchen_Liu_ncsu_new2.jpg" width="23%" height="23%" alt='' />
 </div>
 
