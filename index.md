@@ -71,7 +71,7 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
   * **software development and simulation** (programmable networking, open-source testbed, ns-3)
 
 ### <font color='blue'>Recent News</font> [<u><font size='3'>more</font></u>](https://yuchen-sh.github.io/News)
-* Call for Paper: We are organizing Workshops on [Edge Learning over 5G Mobile Networks and Beyond](https://ws21icc2024workshop-edge5gmn.edas.info/) in IEEE ICC and [Digital Twins for the Metaverse](https://ieeecompsac.computer.org/2024/dt4meta/) in The 48th IEEE COMPSAC. Please submit your paper if you are working in relevant topics!
+* Call for Paper: We are organizing Workshops on [Edge Learning over 5G Mobile Networks and Beyond](https://ws21icc2024workshop-edge5gmn.edas.info/) in IEEE ICC and [Digital Twins for the Metaverse](https://ieeecompsac.computer.org/2024/dt4meta/) in The 48th IEEE COMPSAC. Please submit your paper if you are working on relevant topics!
 
 * Congrats on the acceptance of two recent papers on Beam Management and Material-inspired Networking in IEEE International Conference on Communications (ICC)! See you in Denver!
  
