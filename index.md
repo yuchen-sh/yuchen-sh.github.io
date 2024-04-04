@@ -71,6 +71,8 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
   * **software development and simulation** (programmable networking, open-source testbed, ns-3)
 
 ### <font color='blue'>Recent News</font> [<u><font size='3'>more</font></u>](https://yuchen-sh.github.io/News)
+* Congratulations to my Ph.D. student, Zifan Zhang, for receiving the NCSU Graduate Merit Award (GMA)!
+
 * Glad to serve as an Area Editor for Elsevier Computer Networks journal, and please feel free to submit your work [here](https://www.sciencedirect.com/journal/computer-networks). 
 
 * Call for Paper: We are organizing Workshops on [Edge Learning over 5G Mobile Networks and Beyond](https://ws21icc2024workshop-edge5gmn.edas.info/) in IEEE ICC and [Digital Twins for the Metaverse](https://ieeecompsac.computer.org/2024/dt4meta/) in The 48th IEEE COMPSAC. Please submit your paper if you are working on relevant topics!
