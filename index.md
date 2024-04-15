@@ -71,6 +71,8 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
   * **software development and simulation** (programmable networking, open-source testbed, ns-3)
 
 ### <font color='blue'>Recent News</font> [<u><font size='3'>more</font></u>](https://yuchen-sh.github.io/News)
+* Congrats on the acceptance of three recent papers on Generative AI, Digital Twin, and Federated Learning for Networks in IFIP/IEEE Networking 2024! See you in Greece!
+
 * Congratulations to my Ph.D. student, Zifan Zhang, for receiving the NCSU Graduate Merit Award (GMA)!
 
 * Glad to serve as an Area Editor for Elsevier Computer Networks journal, and please feel free to submit your work [here](https://www.sciencedirect.com/journal/computer-networks). 
