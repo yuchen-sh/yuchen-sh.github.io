@@ -71,27 +71,27 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
   * **software development and simulation** (programmable networking, open-source testbed, ns-3)
 
 ### <font color='blue'>Recent News</font> [<u><font size='3'>more</font></u>](https://yuchen-sh.github.io/News)
-* Congrats on the acceptance of three recent papers on Generative AI, Digital Twin, and Federated Learning for Networks in IFIP/IEEE Networking 2024! See you in Greece!
+* \[04.2024\] Congrats on the acceptance of three recent papers on Generative AI, Digital Twin, and Federated Learning for Networks in IFIP/IEEE Networking 2024! See you in Greece!
 
-* Congratulations to my Ph.D. student, Zifan Zhang, for receiving the NCSU Graduate Merit Award (GMA)!
+* \[04.2024\] Congratulations to my Ph.D. student, Zifan Zhang, for receiving the NCSU Graduate Merit Award (GMA)!
 
-* Glad to serve as an Area Editor for Elsevier Computer Networks journal, and please feel free to submit your work [here](https://www.sciencedirect.com/journal/computer-networks). 
+* \[02.2024\] Glad to serve as an Area Editor for Elsevier Computer Networks journal, and please feel free to submit your work [here](https://www.sciencedirect.com/journal/computer-networks). 
 
-* Call for Paper: We are organizing Workshops on [Edge Learning over 5G Mobile Networks and Beyond](https://ws21icc2024workshop-edge5gmn.edas.info/) in IEEE ICC and [Digital Twins for the Metaverse](https://ieeecompsac.computer.org/2024/dt4meta/) in The 48th IEEE COMPSAC. Please submit your paper if you are working on relevant topics!
+* \[01.2024\] Call for Paper: We are organizing Workshops on [Edge Learning over 5G Mobile Networks and Beyond](https://ws21icc2024workshop-edge5gmn.edas.info/) in IEEE ICC and [Digital Twins for the Metaverse](https://ieeecompsac.computer.org/2024/dt4meta/) in The 48th IEEE COMPSAC. Please submit your paper if you are working on relevant topics!
 
-* Congrats on the acceptance of two recent papers on Beam Management and Material-inspired Networking in IEEE International Conference on Communications (ICC)! See you in Denver!
+* \[01.2024\] Congrats on the acceptance of two recent papers on Beam Management and Material-inspired Networking in IEEE International Conference on Communications (ICC)! See you in Denver!
  
-* Congrats on the acceptance of two recent papers on Digital Network Twins in IEEE Journal of Selected Topics in Signal Processing (JSTSP) and IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)! <!-- Go twinning and learning for NextG networking! -->
+* \[12.2023\] Congrats on the acceptance of two recent papers on Digital Network Twins in IEEE Journal of Selected Topics in Signal Processing (JSTSP) and IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)! <!-- Go twinning and learning for NextG networking! -->
 
-* Our project on "[Digital Network Twins](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2312138&HistoricalAwards=false)" is funded by the NSF CNS Core program, thanks NSF!
+* \[09.2023\] Our project on "[Digital Network Twins](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2312138&HistoricalAwards=false)" is funded by the NSF CNS Core program, thanks NSF!
 
-* Congrats on the acceptance of our journal paper on Graph Neural Networks for Joint Communication and Sensing Optimization at IEEE Journal on Selected Areas in Communications (JSAC)!
+* \[08.2023\] Congrats on the acceptance of our journal paper on Graph Neural Networks for Joint Communication and Sensing Optimization at IEEE Journal on Selected Areas in Communications (JSAC)!
 
-* Congrats on the acceptance of our three papers focusing on UAV Localization, Complex Neural Networks, and Spatial-Temporal Prediction Model at the IEEE Global Communications Conference (GLOBECOM)! 
+* \[07.2023\] Congrats on the acceptance of our three papers focusing on UAV Localization, Complex Neural Networks, and Spatial-Temporal Prediction Model at the IEEE Global Communications Conference (GLOBECOM)! 
 
-* We got the <font color='blue'>Best Paper Award</font> for our paper titled "E-App: Adaptive mmWave Access Point Planning with Environmental Awareness in Wireless LANs” at IEEE International Conference on Computer Communications and Networks (ICCCN)!
+* \[07.2023\] We got the <font color='blue'>Best Paper Award</font> for our paper titled "E-App: Adaptive mmWave Access Point Planning with Environmental Awareness in Wireless LANs” at IEEE International Conference on Computer Communications and Networks (ICCCN)!
 
-* Glad to serve as Associate Editor of IEEE Transactions on Green Communications and Networking, and please feel free to submit your work [here](https://www.comsoc.org/publications/journals/ieee-tgcn).
+* \[05.2023\] Glad to serve as Associate Editor of IEEE Transactions on Green Communications and Networking, and please feel free to submit your work [here](https://www.comsoc.org/publications/journals/ieee-tgcn).
 
 **<font color='red'>I am looking for multiple Ph.D./M.S./Undergraduate students and Research Interns to work in the area of network intelligence, digital twins, generative AI and ML (in Fall 2023/2024, Spring 2024).</font>**
 
