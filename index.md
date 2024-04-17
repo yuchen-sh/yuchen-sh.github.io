@@ -81,8 +81,8 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
 
 * \[01.2024\] Congrats on the acceptance of two recent papers on Beam Management and Material-inspired Networking in IEEE International Conference on Communications (ICC)! See you in Denver!
 
-<details><summary>More News</summary>
-<p>
+ <details><summary>More News</summary>
+
 ### Past News
 
 * \[12.2023\] Congrats on the acceptance of two recent papers on Digital Network Twins in IEEE Journal of Selected Topics in Signal Processing (JSTSP) and IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)! <!-- Go twinning and learning for NextG networking! -->
@@ -96,8 +96,8 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
 * \[07.2023\] We got the <font color='blue'>Best Paper Award</font> for our paper titled "E-App: Adaptive mmWave Access Point Planning with Environmental Awareness in Wireless LANs” at IEEE International Conference on Computer Communications and Networks (ICCCN)!
 
 * \[05.2023\] Glad to serve as Associate Editor of IEEE Transactions on Green Communications and Networking, and please feel free to submit your work [here](https://www.comsoc.org/publications/journals/ieee-tgcn).
-</p>
-</details>
+
+ </details>
 
 **<font color='red'>I am looking for multiple Ph.D./M.S./Undergraduate students and Research Interns to work in the area of network intelligence, digital twins, generative AI and ML (in Fall 2023/2024, Spring 2024).</font>**
 
