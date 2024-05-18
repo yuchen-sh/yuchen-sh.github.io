@@ -3,7 +3,7 @@
 <!-- <img id="img2" src="/ncsu_logo2.png" width="36%" height="36%" alt='' /> -->
 <span id="yliu"><img id="img5" src="/ncsu_coe.png" width="36%" height="36%" alt='' /></span>
 
-[<u><font size='4'>ABOUT</font></u>](#j1) &emsp;[<u><font size='4'>NEWS</font></u>](https://yuchen-sh.github.io/News) &emsp; [<u><font size='4'>RESEARCH</font></u>](https://yuchen-sh.github.io/Projects/) &emsp; [<u><font size='4'>PUBLICATIONS</font></u>](https://yuchen-sh.github.io/Recent-Publications/) &emsp; [<u><font size='4'>TEACHING</font></u>](https://yuchen-sh.github.io/Coursework) &emsp; [<u><font size='4'>EXPERIENCES</font></u>](https://yuchen-sh.github.io/EXPERIENCES) &emsp; [<u><font size='4'>SERVICES</font></u>](https://yuchen-sh.github.io/SERVICES-SKILLS) &emsp; [<u><font size='4'>NICE-LAB</font></u>](https://yuchen-sh.github.io/NICE-LAB)
+[<u><font size='4'>ABOUT</font></u>](#j1) &emsp;[<u><font size='4'>NEWS</font></u>](https://yuchen-sh.github.io/News) &emsp; [<u><font size='4'>RESEARCH</font></u>](https://yuchen-sh.github.io/Projects/) &emsp; [<u><font size='4'>PUBLICATIONS</font></u>](https://yuchen-sh.github.io/Recent-Publications/) &emsp; [<u><font size='4'>EDUCATION</font></u>](https://yuchen-sh.github.io/Coursework) &emsp; [<u><font size='4'>EXPERIENCES</font></u>](https://yuchen-sh.github.io/EXPERIENCES) &emsp; [<u><font size='4'>SERVICES</font></u>](https://yuchen-sh.github.io/SERVICES-SKILLS) &emsp; [<u><font size='4'>NICE-LAB</font></u>](https://yuchen-sh.github.io/NICE-LAB)
 
 &emsp;
 
@@ -71,6 +71,8 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
   * **software development and simulation** (programmable networking, open-source testbed, ns-3)
 
 ### <font color='blue'>Recent News</font> [<u><font size='3'>more</font></u>](https://yuchen-sh.github.io/News)
+* \[05.2024\] Excited to announce our upcoming Summer Residential Camp: [Seeing through a Digital World](https://www.engr.ncsu.edu/theengineeringplace/summerprograms/hs-residential/), happening this summer. Join us for an opportunity to delve into the intricacies of complex network systems within the digital realm!
+
 * \[04.2024\] Congrats on the acceptance of recent paper on AERPAW Digital Twin and Testbed for Signal Source Localization in the SLICES Workshop of IFIP/IEEE Networking 2024!
 
 * \[04.2024\] Glad to serve as Associate Editor of IEEE Transactions on Machine Learning in Communications and Networking, and please feel free to submit your work [here](https://www.comsoc.org/publications/journals/ieee-tmlcn/call-for-papers).
