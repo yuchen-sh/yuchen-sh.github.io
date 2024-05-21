@@ -71,7 +71,7 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
   * **software development and simulation** (programmable networking, open-source testbed, ns-3)
 
 ### <font color='blue'>Recent News</font> [<u><font size='3'>more</font></u>](https://yuchen-sh.github.io/News)
-* \[05.2023\] Congrats on the acceptance of our journal paper on Digital Network Twins for Edge Caching Optimization at IEEE Journal on Selected Areas in Communications (JSAC)!
+* \[05.2024\] Congrats on the acceptance of our journal paper on Digital Network Twins for Edge Caching Optimization at IEEE Journal on Selected Areas in Communications (JSAC)!
 
 * \[05.2024\] Excited to announce our upcoming Summer Residential Camp: [Seeing through a Digital World](https://www.engr.ncsu.edu/theengineeringplace/summerprograms/hs-residential/), happening this summer. Join us for an opportunity to delve into the intricacies of complex network systems within the digital realm!
 
