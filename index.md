@@ -97,13 +97,13 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
 
 * \[09.2023\] Our project on "[Digital Network Twins](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2312138&HistoricalAwards=false)" is funded by the NSF CNS Core program, thanks NSF!
 
-* \[08.2023\] Congrats on the acceptance of our journal paper on Graph Neural Networks for Joint Communication and Sensing Optimization at IEEE Journal on Selected Areas in Communications (JSAC)!
+<!-- * \[08.2023\] Congrats on the acceptance of our journal paper on Graph Neural Networks for Joint Communication and Sensing Optimization at IEEE Journal on Selected Areas in Communications (JSAC)!
 
 * \[07.2023\] Congrats on the acceptance of our three papers focusing on UAV Localization, Complex Neural Networks, and Spatial-Temporal Prediction Model at the IEEE Global Communications Conference (GLOBECOM)! 
 
 * \[07.2023\] We got the <font color='blue'>Best Paper Award</font> for our paper titled "E-App: Adaptive mmWave Access Point Planning with Environmental Awareness in Wireless LANs” at IEEE International Conference on Computer Communications and Networks (ICCCN)!
 
-* \[05.2023\] Glad to serve as Associate Editor of IEEE Transactions on Green Communications and Networking, and please feel free to submit your work [here](https://www.comsoc.org/publications/journals/ieee-tgcn).
+* \[05.2023\] Glad to serve as Associate Editor of IEEE Transactions on Green Communications and Networking, and please feel free to submit your work [here](https://www.comsoc.org/publications/journals/ieee-tgcn). -->
 
 
 **<font color='red'>I am looking for multiple Ph.D./M.S./Undergraduate students and Research Interns to work in the area of network intelligence, digital twins, generative AI and ML (in Fall 2023/2024, Spring 2024).</font>**
