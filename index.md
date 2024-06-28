@@ -71,6 +71,8 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
   * **software development and simulation** (programmable networking, open-source testbed, ns-3)
 
 ### <font color='blue'>Recent News</font> [<u><font size='3'>more</font></u>](https://yuchen-sh.github.io/News)
+* \[06.2024\] Call for Paper: We are organizing Workshops on [Digital Twins over NextG Wireless Networks](https://edas.info/N32707) in IEEE GLOBECOM. Please submit your paper if you are working on relevant topics!
+
 * \[06.2024\] Our paper, titled "Poisoning Attacks on Federated Learning-based Wireless Traffic Prediction", received the <font color='blue'>Best Paper Award Runner-up</font> at IEEE/IFIP Networking!
 
 * \[05.2024\] Our journal paper on mmWave Radio with Mobility Awareness was accepted at IEEE Transactions on Mobile Computing (TMC)! Congrats Zhizhen!
