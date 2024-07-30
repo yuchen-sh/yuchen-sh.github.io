@@ -73,6 +73,8 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
 ### <font color='blue'>Recent News</font> [<u><font size='3'>more</font></u>](https://yuchen-sh.github.io/News)
 * \[07.2024\] Media coverage on ["How a ‘Digital Twin’ Can Make Wireless Networks Faster, More Reliable"](https://news.ncsu.edu/2024/07/improved-edge-caching/).
 
+* \[07.2024\] Our paper on fast and robust 3D object reconstruction is accepted to ACM MM 2024.
+
 * \[07.2024\] Our project on "Towards Secure and Privacy-enhancing Digital World Experiences" is funded by the NSF SaTC Core program, thanks NSF!
 
 * \[06.2024\] Call for Paper: We are organizing Workshops on [Digital Twins over NextG Wireless Networks](https://globecom2024.ieee-globecom.org/workshop/ws-28-workshop-digital-twins-over-nextg-wireless-networks) in IEEE GLOBECOM. Please submit your paper if you are working on relevant topics!
