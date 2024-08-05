@@ -64,11 +64,11 @@ I received my Ph.D. degree at the [Georgia Institute of Technology](https://www.
 Rapid technological innovations are necessary to keep up with ever-accelerating human demands, and my long-term research goals revolve around achieving pervasive user-centric applications through ubiquitous networking and intelligence. This vision is realized through generalization, virtualization, digitization, and softwarization designs, where the synergistic methodologies unlock the opportunities that support emerging applications on mobile edges, enabling untethered and smart connectivity for work, entertainment, social connections, health, etc. Specifically, my research covers broad areas of networking, machine learning, computing, and communication, spanning:
 
   * **networking and systems** (wireless, digital twins, Open RAN, and security)
-  * **machine learning for data, networking, sensing, and security** (generative AI, distributed/reinforcement learning, data generation)
-  * **mobile computing** (infrastructure mobility, UAVs, robotic networked systems)
+  * **machine learning for data, networks, security and privacy** (generative AI, distributed/reinforcement learning, data generation)
+  * **mobile computing** (UAVs, autonomous sensing, robotic networked systems)
   * **new communication paradigms** (mmWave, THz, nextG Wi-Fi) 
-  * **optimization and resilience** (theory, large-scale models and systems)
-  * **software development and simulation** (programmable networking, open-source testbed, ns-3)
+  * **optimization and resilience** (theory, large AI models and systems)
+  * **software development and simulation** (differentiable simulator, open-source testbed, ns-3)
 
 ### <font color='blue'>Recent News</font> [<u><font size='3'>more</font></u>](https://yuchen-sh.github.io/News)
 * \[08.2024\] Congrats on the acceptance of our three papers focusing on Localization against Jamming Attacks, DT Synchronization, and Clustered Federated Learning at the IEEE Global Communications Conference (GLOBECOM)! 
