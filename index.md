@@ -64,7 +64,7 @@ I received my Ph.D. degree at the [Georgia Institute of Technology](https://www.
 Rapid technological innovations are necessary to keep up with ever-accelerating human demands, and my long-term research goals revolve around achieving pervasive user-centric applications through ubiquitous networking and intelligence. This vision is realized through generalization, virtualization, digitization, and softwarization designs, where the synergistic methodologies unlock the opportunities that support emerging applications on mobile edges, enabling untethered and smart connectivity for work, entertainment, social connections, health, etc. Specifically, my research covers broad areas of networking, machine learning, computing, and communication, spanning:
 
   * **networking and systems** (wireless, digital twins, Open RAN, and cybersecurity)
-  * **machine learning for data, networks, security and privacy** (generative AI, distributed/reinforcement learning, data generation)
+  * **machine learning for data, networks, security and privacy** (generative AI, LLM, distributed/reinforcement learning, data generation)
   * **mobile computing** (UAVs, autonomous sensing, robotic networked systems)
   * **new communication paradigms** (mmWave, THz, nextG Wi-Fi) 
   * **optimization and resilience** (theory, large AI models and systems)
