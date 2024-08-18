@@ -93,7 +93,7 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
 
 * \[04.2024\] Congrats on the acceptance of recent paper on AERPAW Digital Twin and Testbed for Signal Source Localization in the SLICES Workshop of IFIP/IEEE Networking 2024!
 
-* \[04.2024\] Glad to serve as Associate Editor of IEEE Transactions on Machine Learning in Communications and Networking, and please feel free to submit your work [here](https://www.comsoc.org/publications/journals/ieee-tmlcn/call-for-papers).
+<!-- * \[04.2024\] Glad to serve as Associate Editor of IEEE Transactions on Machine Learning in Communications and Networking, and please feel free to submit your work [here](https://www.comsoc.org/publications/journals/ieee-tmlcn/call-for-papers).
 
 * \[04.2024\] Congrats on the acceptance of three recent papers on Generative AI, Digital Twin, and Federated Learning for Networks in IFIP/IEEE Networking 2024! See you in Greece!
 
@@ -105,7 +105,7 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
 
 * \[01.2024\] Congrats on the acceptance of two recent papers on Beam Management and Material-inspired Networking in IEEE International Conference on Communications (ICC)! See you in Denver!
 
-<!-- * \[12.2023\] Congrats on the acceptance of two recent papers on Digital Network Twins in IEEE Journal of Selected Topics in Signal Processing (JSTSP) and IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)!
+* \[12.2023\] Congrats on the acceptance of two recent papers on Digital Network Twins in IEEE Journal of Selected Topics in Signal Processing (JSTSP) and IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)!
 
 * \[09.2023\] Our project on "[Digital Network Twins](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2312138&HistoricalAwards=false)" is funded by the NSF CNS Core program, thanks NSF!
 
