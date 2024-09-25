@@ -71,6 +71,8 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
   * **software development and simulation** (differentiable simulator, open-source testbed, ns-3)
 
 ### <font color='blue'>Recent News</font> [<u><font size='3'>more</font></u>](https://yuchen-sh.github.io/News)
+* \[09.2024\] Will attend the Oak Ridge National Laboratory’s Core Universities AI Workshop and post our recent LLM & DT works!
+
 * \[08.2024\] Congrats on the acceptance of our paper for an interactive, automated, and script-free simulation paradigm using LLMs at the IEEE IPCCC! 
 
 * \[08.2024\] Congrats on the acceptance of our three papers focusing on Localization against Jamming Attacks, DT Synchronization, and Clustered Federated Learning at the IEEE Global Communications Conference (GLOBECOM)! 
