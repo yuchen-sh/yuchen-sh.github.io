@@ -97,11 +97,11 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
 
 * \[05.2024\] Excited to announce our upcoming Summer Residential Camp: [Seeing through a Digital World](https://www.engr.ncsu.edu/theengineeringplace/summerprograms/hs-residential/), happening this summer. Join us for an opportunity to delve into the intricacies of complex network systems within the digital realm!
 
-<!-- * \[05.2024\] Congrats on the acceptance of recent demo paper on Virtualizing Data Poisoning Behaviors in Federated Learning in IEEE International Conference on Distributed Computing Systems (ICDCS) 2024!
+* \[05.2024\] Congrats on the acceptance of recent demo paper on Virtualizing Data Poisoning Behaviors in Federated Learning in IEEE International Conference on Distributed Computing Systems (ICDCS) 2024!
 
 * \[04.2024\] Congrats on the acceptance of recent paper on AERPAW Digital Twin and Testbed for Signal Source Localization in the SLICES Workshop of IFIP/IEEE Networking 2024!
 
-* \[04.2024\] Glad to serve as Associate Editor of IEEE Transactions on Machine Learning in Communications and Networking, and please feel free to submit your work [here](https://www.comsoc.org/publications/journals/ieee-tmlcn/call-for-papers).
+<!-- * \[04.2024\] Glad to serve as Associate Editor of IEEE Transactions on Machine Learning in Communications and Networking, and please feel free to submit your work [here](https://www.comsoc.org/publications/journals/ieee-tmlcn/call-for-papers).
 
 * \[04.2024\] Congrats on the acceptance of three recent papers on Generative AI, Digital Twin, and Federated Learning for Networks in IFIP/IEEE Networking 2024! See you in Greece!
 
