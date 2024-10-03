@@ -87,7 +87,7 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
 
 * \[07.2024\] Our project on "Towards Secure and Privacy-enhancing Digital World Experiences" is funded by the NSF SaTC Core program, thanks NSF!
 
-* \[06.2024\] Call for Paper: We are organizing Workshops on [Digital Twins over NextG Wireless Networks](https://globecom2024.ieee-globecom.org/workshop/ws-28-workshop-digital-twins-over-nextg-wireless-networks) in IEEE GLOBECOM. Please submit your paper if you are working on relevant topics!
+<!-- * \[06.2024\] Call for Paper: We are organizing Workshops on [Digital Twins over NextG Wireless Networks](https://globecom2024.ieee-globecom.org/workshop/ws-28-workshop-digital-twins-over-nextg-wireless-networks) in IEEE GLOBECOM. Please submit your paper if you are working on relevant topics!
 
 * \[06.2024\] Our paper, titled "Poisoning Attacks on Federated Learning-based Wireless Traffic Prediction", received the <font color='blue'>Best Paper Award Runner-up</font> at IEEE/IFIP Networking!
 
@@ -101,7 +101,7 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
 
 * \[04.2024\] Congrats on the acceptance of recent paper on AERPAW Digital Twin and Testbed for Signal Source Localization in the SLICES Workshop of IFIP/IEEE Networking 2024!
 
-<!-- * \[04.2024\] Glad to serve as Associate Editor of IEEE Transactions on Machine Learning in Communications and Networking, and please feel free to submit your work [here](https://www.comsoc.org/publications/journals/ieee-tmlcn/call-for-papers).
+* \[04.2024\] Glad to serve as Associate Editor of IEEE Transactions on Machine Learning in Communications and Networking, and please feel free to submit your work [here](https://www.comsoc.org/publications/journals/ieee-tmlcn/call-for-papers).
 
 * \[04.2024\] Congrats on the acceptance of three recent papers on Generative AI, Digital Twin, and Federated Learning for Networks in IFIP/IEEE Networking 2024! See you in Greece!
 
