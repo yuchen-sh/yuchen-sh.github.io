@@ -71,7 +71,7 @@ Rapid technological innovations are necessary to keep up with ever-accelerating 
   * **software development and simulation** (differentiable simulator, open-source testbed, ns-3)
 
 ### <font color='blue'>Recent News</font> [<u><font size='3'>more</font></u>](https://yuchen-sh.github.io/News)
-* \[10.2024\] We got an Educational and Technology Funds from NCSU to support our wireless sensing projects!
+* \[10.2024\] We got an Educational and Technology Funds from NCSU to support our wireless sensing project!
 
 * \[09.2024\] Congrats on the acceptance of our paper for Open RAN with air mobility at the Elsevier Computer Communications!
 
